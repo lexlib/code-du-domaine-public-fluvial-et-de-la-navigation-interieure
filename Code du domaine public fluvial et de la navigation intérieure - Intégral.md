@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2002-01-04
+Version Consolidée au 2003-07-31
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -87,6 +87,9 @@ domaine public ;
 en vue d'assurer l'alimentation en eau des voies navigables, les besoins en eau de l'agriculture et de l'industrie,
 l'alimentation des populations ou la protection contre les inondations ;
 
+- les cours d'eaux, canaux, lacs et plans d'eau appartenant au domaine public fluvial des collectivités territoriales et de
+leurs groupements ;
+
 - Les cours d'eau et les lacs appartenant au domaine public sont appelés cours d'eau et lacs domaniaux.
 
 **Liens relatifs à cet article**
@@ -94,10 +97,6 @@ l'alimentation des populations ou la protection contre les inondations ;
 _Codifié par_:
 
   - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 29 JORF 18 décembre 1964
 
 _Cité par_:
 
@@ -116,9 +115,150 @@ _Cité par_:
   - TXT_SOURCE: Décret n°91-798 du 20 août 1991
   - TXT_SOURCE: Décret n°91-798 du 20 août 1991 - art. 1 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
 _Nouveaux textes_:
 
   - Code général de la propriété des personnes publiques L2111-7 (al. 1 à al. 9)
+
+
+###### Article 1-1
+
+Le domaine public fluvial des collectivités territoriales et de leurs groupements est constitué des cours d'eau, canaux, lacs
+et plans d'eau dont ils sont ou deviennent propriétaires, soit par acquisition amiable ou par voie d'expropriation classés
+dans leur domaine public en application de la procédure prévue à l'article 2-1, soit par transfert de propriété du domaine
+public fluvial de l'Etat ou d'une autre personne publique, ou qu'ils créent.
+
+Les transferts de propriété du domaine public fluvial au profit d'une collectivité territoriale ou d'un groupement de la part
+de l'Etat ou d'une autre personne publique peuvent être opérés à la demande de l'assemblée délibérante de la collectivité
+territoriale ou du groupement. Ils le sont à titre gratuit. Toutefois, les parties de cours d'eau, canaux, lacs ou plans
+d'eau inclus dans le périmètre d'une concession accordée par l'Etat au titre de l'utilisation de l'énergie hydraulique ne
+peuvent pas faire l'objet d'un transfert de propriété au profit des collectivités territoriales ou de leurs groupements.
+
+Ces transferts s'opèrent en priorité au profit de la région ou du groupement de régions territorialement compétent qui en
+fait la demande. Lorsque d'autres collectivités ou groupements de collectivités territorialement compétents souhaitent
+bénéficier d'un tel transfert, leurs demandes sont transmises pour avis à la région. Ils peuvent bénéficier de ce transfert
+si, à l'issue d'un délai de six mois à compter de la saisine pour avis, la région territorialement compétente n'a pas elle-
+même formulé la demande.
+
+Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+_Cité par_:
+
+  - Décret n°91-796 du 20 août 1991 - art. 1 (Ab)
+  - Décret n°2005-992 du 16 août 2005 - art. 1 (Ab)
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 117 (V)
+  - Code du domaine public fluvial et de la navigation - art. 4 (Ab)
+
+_Créé par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiques L3113-1 (al. 2 à 6)
+
+_Cite_:
+
+  - Code du domaine public fluvial et de la navigation - art. 2-1 (M)
+
+
+###### Article 1-2
+
+Une expérimentation peut être engagée pour une durée maximale de six ans pendant laquelle la collectivité ou le groupement de
+collectivités est compétent pour aménager et exploiter le domaine dont la proprieté ne lui est pas transférée.
+
+Le transfert de propriété deviendra effectif à l'issue de cette période, sauf si la collectivité ou le groupement de
+collectivités a renoncé au transfert au moins six mois avant la clôture de l'expérimentation. Le transfert s'opère dans des
+conditions fixées par décret en Conseil d'Etat.
+
+L'Etat et la collectivité ou le groupement de collectivités ayant opté pour l'expérimentation déterminent conjointement les
+cours d'eau, canaux, lacs et plans d'eau concernés par le transfert. Ils signent une convention définissant les conditions et
+la durée de l'expérimentation. Durant cette période d'expérimentation, la collectivité territoriale ou le groupement de
+collectivités territoriales peut faire appel à l'établissement public à caractère industriel et commercial Voies navigables
+de France selon des modalités qui seront définies par une convention tripartite entre l'Etat, les collectivités concernées et
+Voies navigables de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+_Créé par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Cité par_:
+
+  - Loi n°2004-809 du 13 août 2004 - art. 117 (V)
+  - Décret n°2005-992 du 16 août 2005 - art. 14 (Ab)
+  - Code général de la propriété des personnes publ... - art. R3113-6 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L3113-2 (V)
+
+
+###### Article 1-3
+
+Un décret en Conseil d'Etat précise les conditions du transfert dans le domaine public d'une collectivité ou d'un groupement
+de collectivités et les modalités selon lesquelles les différentes personnes publiques ayant bénéficié du transfert de
+propriété et de compétences assurent la cohérence de la gestion du domaine public ayant fait l'objet du transfert. Ce décret
+fixe également la liste des cours d'eau et canaux d'intérêt national notamment utiles au transport de marchandises qui ne
+peuvent faire l'objet d'un transfert.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+_Créé par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L3113-3 (V)
+
+
+###### Article 1-4
+
+La collectivité territoriale ou le groupement est chargé de l'aménagement et de l'exploitation de son domaine. L'autorité
+exécutive de la collectivité territoriale ou du groupement exerce les pouvoirs de police y afférents, sous réserve des
+attributions dévolues aux maires et des compétences de l'Etat en matière de police de l'eau, de réglementation générale de la
+navigation et d'utilisation de l'énergie hydraulique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+_Créé par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2124-6 (V)
 
 
 ###### Article 2
@@ -149,11 +289,14 @@ _Abrogé par_:
 
 ###### Article 2-1
 
-Le classement d'un cours d'eau, d'une section de cours d'eau ou d'un lac dans le domaine public, pour l'un des motifs
-énumérés à l'avant-dernier alinéa de l'article 1er, est prononcé, après enquête d'utilité publique, par décret en Conseil
-d'Etat pris sur le rapport du ou des ministres intéressés et du ministre chargé de la police ou de la gestion de ce cours
-d'eau ou de ce lac, après avis du ministre des finances et des affaires économiques, tous les droits des riverains du cours
-d'eau ou du propriétaire du lac et des tiers réservés.
+Le classement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac ou plan d'eau dans le domaine public fluvial de
+l'Etat pour l'un des motifs énumérés à l'article 1er est prononcé, après enquête publique, par arrêté du préfet
+territorialement compétent, tous les droits des riverains du cours d'eau ou des propriétaires du lac et des tiers demeurant
+réservés. Le classement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac ou plan d'eau dans le domaine public
+fluvial d'une collectivité territoriale ou d'un groupement est prononcé après enquête publique par arrêté du préfet
+coordonnateur de bassin, après avis des assemblées délibérantes des collectivités territoriales sur le territoire desquelles
+se situe le domaine à classer, ainsi que du comité de bassin compétent, tous les droits des riverains du cours d'eau ou des
+propriétaires du lac et des tiers demeurant réservés.
 
 Les indemnités pouvant être dues en raison des dommages entraînés par ce classement sont fixées comme en matière
 d'expropriation pour cause d'utilité publique, compensation faite des avantages que les intéressés peuvent en retirer.
@@ -168,9 +311,9 @@ _Anciens textes_:
 
   - Loi n°64-1245 1964-12-16 art. 29
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°64-1245 1964-12-16 art. 29 JORF 18 décembre 1964
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
 
 _Cité par_:
 
@@ -180,6 +323,10 @@ _Cité par_:
   - Code du domaine public fluvial et de la navigation - art. 1-5 (Ab)
   - Code du domaine public fluvial et de la navigation - art. 15 (Ab)
   - Code général de la propriété des personnes publ... - art. R2111-17 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Nouveaux textes_:
 
@@ -214,12 +361,22 @@ _Abrogé par_:
 
 ###### Article 4
 
-Le déclassement des cours d'eau ou lacs domaniaux navigables ou non et des canaux faisant partie du domaine public de l'Etat
-est prononcé après enquête d'utilité publique par décret en Conseil d'Etat pris sur le rapport du ministre des travaux
-publics et des transports ou du ministre de l'agriculture s'il est chargé de la gestion du cours d'eau ou du lac, après avis
-des ministres chargés respectivement des finances, de l'intérieur, de l'industrie, ainsi que, suivant le cas, après avis du
-ministre de l'agriculture ou du ministre des travaux publics et des transports dans les conditions fixées par décret en
-conseil d'Etat.
+1. Le déclassement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac ou plan d'eau faisant partie du domaine
+public fluvial de l'Etat est prononcé, après enquête publique et consultation des collectivités territoriales intéressées,
+par arrêté du préfet territorialement compétent, tous les droits des riverains et des tiers demeurant réservés.
+
+Le déclassement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac ou plan d'eau faisant partie du domaine
+public fluvial de l'Etat emporte sa radiation de la nomenclature des voies navigables ou flottables de l'Etat.
+
+Dans le cas d'un transfert de propriété du domaine public fluvial de l'Etat au profit d'une collectivité territoriale ou d'un
+groupement, tel que prévu à l'article 1-1, l'acte opérant le transfert emporte déclassement du domaine public fluvial de
+l'Etat.
+
+2. Le déclassement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac ou plan d'eau faisant partie du domaine
+public fluvial d'une collectivité territoriale ou d'un groupement est prononcé après enquête publique par la personne
+responsable de l'autorité exécutive de la collectivité territoriale ou du groupement, après consultation du comité de bassin
+et des assemblées délibérantes des autres collectivités territoriales sur le territoire desquelles se situe le domaine à
+déclasser, tous les droits des riverains et des tiers demeurant réservés.
 
 **Liens relatifs à cet article**
 
@@ -233,7 +390,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°64-1245 1964-12-16 art. 29 JORF 18 décembre 1964
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
 
 _Cité par_:
 
@@ -242,9 +399,17 @@ _Cité par_:
   - Code du domaine public fluvial et de la navigation - art. 1-5 (Ab)
   - Code général de la propriété des personnes publ... - art. R2142-2 (VT)
 
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
 _Nouveaux textes_:
 
   - Code général de la propriété des personnes publiques L2142-1 (al. 1 et 4)
+
+_Cite_:
+
+  - Code du domaine public fluvial et de la navigation - art. 1-1 (M)
 
 
 ###### Article 5
@@ -358,31 +523,8 @@ _Nouveaux textes_:
 
 ###### Article 7
 
-Les décrets de déclassement sont pris après avis des ministres chargés respectivement de l'économie et des finances, de
-l'agriculture, de l'intérieur et de l'industrie et du commerce.
-
-Ces avis sont sollicités par le ministre de l'équipement et du logement après accomplissement des formalités ci-après :
-
-a) Consultation de l'office national de la navigation et des services civils, départements et chambres de commerce
-intéressés ;
-
-b) Consultation des organisations professionnelles de la batellerie ;
-
-c) Enquête d'utilité publique, dans les formes déterminées par décret.
-
-Dans l'accomplissement des formalités prévues sous a) et b), les avis non formulés dans le délai d'un mois sont réputés
-favorables.
-
 Les voies déclassées sont placées pour les parties naturelles du lit, dans la catégorie des cours d'eau et lacs non domaniaux
-et, pour les autres parties, dans le domaine privé de l'Etat.
-
-Sur les voies d'eau qui auront fait l'objet d'un décret de déclassement, aucune dépense autre que celles nécessaires pour
-rétablir, en cas de nécessité, la situation naturelle ne sera faite par l'Etat au titre des ouvrages intéressant
-antérieurement la navigation. Les travaux d'entretien, de réparation et de restauration des ouvrages intéressant les usiniers
-ou autres bénéciaires ne donneront lieu à aucune contribution financière de l'Etat.
-
-La même règle est applicable aux ouvrages situés sur des voies d'eau ayant fait l'objet d'une mesure de déclassement avant le
-18 juin 1955.
+et, pour les autres parties, dans le domaine privé de l'Etat, de la collectivité territoriale ou du groupement, selon le cas.
 
 **Liens relatifs à cet article**
 
@@ -396,7 +538,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°64-1245 1964-12-16 art. 29 JORF 18 décembre 1964
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Nouveaux textes_:
 
@@ -471,6 +617,9 @@ _Modifié par_:
 La propriété des alluvions, relais, atterrissements, îles et îlots qui se forment naturellement dans les fleuves et rivières
 domaniaux est réglée par les dispositions des articles 556, 557, 560 et 562 du code civil.
 
+Lorsque l'application des dispositions de l'article 560 du code civil concerne un cours d'eau domanial appartenant à une
+collectivité territoriale ou un groupement, ce dernier est substitué à l'Etat.
+
 En ce qui concerne les lacs domaniaux, les dispositions de l'article 558 du même code sont applicables.
 
 **Liens relatifs à cet article**
@@ -479,22 +628,25 @@ _Codifié par_:
 
   - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
 
+_Anciens textes_:
+
+  - Loi n°1898-04-08 art. 39
+  - Loi n°1898-04-08 du 8 avril 1898 - art. 39 (Ab)
+
 _Modifié par_:
 
-  - Loi n°64-1245 1964-12-16 art. 30, art. 31 JORF 18 décembre 1964
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cite_:
 
   - Code civil - art. 556 (M)
   - Code civil - art. 557 (V)
-  - Code civil - art. 558 (V)
   - Code civil - art. 560 (M)
   - Code civil - art. 562 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 39
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 39 (Ab)
 
 
 ###### Article 11
@@ -599,15 +751,15 @@ _Cite_:
 
 ###### Article 14
 
-Le curage des cours d'eau domaniaux et de leurs dépendances faisant partie du domaine public est à la charge de l'Etat ;
-néanmoins, un règlement d'administration publique peut, les parties intéressées entendues, appeler à contribuer au curage les
-communes, les usiniers, les concessionnaires des prises d'eau et les propriétaires voisins, qui, par l'usage exceptionnel et
-spécial qu'ils font des eaux, rendent les frais de curage plus considérables.
+Le curage des cours d'eau domaniaux et de leurs dépendances faisant partie du domaine public est à la charge du propriétaire
+du domaine public fluvial concerné, néanmoins, un décret en Conseil d'Etat peut, les parties intéressées entendues, appeler à
+contribuer au curage les communes, les usiniers, les concessionnaires des prises d'eau et les propriétaires voisins, qui, par
+l'usage exceptionnel et spécial qu'ils font des eaux, rendent les frais de curage plus considérables.
 
 Toutefois, le montant de la contribution annuelle à exiger des communes, des usiniers, des concessionnaires de prise d'eau ou
 des propriétaires voisins pour curage des voies navigables ou flottables et de leur dépendances faisant partie du domaine
-public, sera fixé par arrêté préfectoral sous réserve de l'approbation préalable du ministre des travaux publics chaque fois
-qu'un accord se sera établi à ce sujet entre l'administration et les intéressés.
+public, sera fixé par arrêté préfectoral chaque fois qu'un accord se sera établi à ce sujet entre l'administration et les
+intéressés.
 
 **Liens relatifs à cet article**
 
@@ -622,7 +774,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°64-1245 1964-12-16 art. 30 art. 32 JORF 18 décembre 1964
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Nouveaux textes_:
 
@@ -692,11 +848,11 @@ _Anciens textes_:
 ###### Article 16
 
 Lorsque l'intérêt du service de la navigation le permettra, les distances fixées par les deux premiers alinéas de l'article
-précédent, pour la servitude de halage, seront réduites par arrêté ministériel.
+précédent, pour la servitude de halage, seront réduites sur décision de l'autorité gestionnaire.
 
 Lorsque l'exercice de la pêche et les nécessités d'entretien du cours d'eau le permettront, la distance fixée par le
-troisième alinéa de l'article précédent pour la servitude de marchepied pourra être exceptionnellement réduite par arrêté
-ministériel.
+troisième alinéa de l'article précédent pour la servitude de marchepied pourra être exceptionnellement réduite sur décision
+de l'autorité gestionnaire.
 
 **Liens relatifs à cet article**
 
@@ -704,24 +860,28 @@ _Codifié par_:
 
   - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
 
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 30, art. 31 JORF 18 décembre 1964
-
 _Cité par_:
 
   - Décret n°89-391 du 15 juin 1989 - art. 7 (V)
   - Décret n°89-405 du 20 juin 1989 - art. 7 (V)
   - Code de l'urbanisme - art. R*126-1, Annexe (V)
 
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2131-3 (M)
-
 _Anciens textes_:
 
   - Loi n°1898-04-08 art. 47
   - Loi n°1898-04-08 du 8 avril 1898 - art. 47 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2131-3 (M)
 
 
 ###### Article 18
@@ -1300,7 +1460,11 @@ _Abrogé par_:
 ###### Article 35
 
 Les titulaires d'autorisations de prise d'eau sur les cours d'eau domaniaux et sur les canaux de navigation sont assujettis à
-payer à l'Etat une redevance calculée d'après les bases fixées par un règlement d'administration publique.
+payer à l'Etat une redevance calculée d'après les bases fixées par un décret en Conseil d'Etat.
+
+Sur les cours d'eau, sections de cours d'eau, canaux, lacs et plans d'eau appartenant à une collectivité territoriale ou un
+groupement, la redevance est perçue à son profit. Elle est établie par délibération de l'assemblée délibérante de la
+collectivité territoriale ou du groupement, dans les limites fixés par décret en Conseil d'Etat.
 
 Les dispositions du présent article ne sont pas applicables aux cours d'eau domaniaux et aux canaux confiés à l'établissement
 public créé par l'article 67 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de
@@ -1317,9 +1481,18 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987
   - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987 - art. 2 (V)
 
+_Anciens textes_:
+
+  - Loi n°1898-04-08 art. 44
+  - Loi n°1898-04-08 du 8 avril 1898 - art. 44 (Ab)
+
+_Cite_:
+
+  - Loi n°1912-02-27 art. 67
+
 _Modifié par_:
 
-  - Loi n°90-1168 1990-12-29 art. 124 V JORF 30 décembre 1990
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
 
 _Cité par_:
 
@@ -1329,15 +1502,6 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code général de la propriété des personnes publiqu - art. L2125-7 (V)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 44
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 44 (Ab)
-
-_Cite_:
-
-  - Loi n°1912-02-27 art. 67
 
 
 ###### Article 36
@@ -1368,8 +1532,8 @@ _Abrogé par_:
 
 ###### Article 37
 
-le gouvernement concédera, aux conditions qu'il aura fixées, le droit d'endigage, les accrues, atterrissements et alluvions
-des fleuves ou rivières faisant partie du domaine public fluvial.
+L'Etat, les collectivités territoriales et leurs groupements concéderont, aux conditions qu'ils auront fixées, le droit
+d'endigage, les accrues, atterrissements et alluvions des fleuves ou rivières faisant partie de leur domaine public fluvial.
 
 **Liens relatifs à cet article**
 
@@ -1377,13 +1541,21 @@ _Codifié par_:
 
   - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
 
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-15 (V)
-
 _Anciens textes_:
 
   - Loi n°1807-09-16 art. 41
+
+_Modifié par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L3211-15 (V)
 
 
 ###### Article 38
@@ -1437,11 +1609,10 @@ _Anciens textes_:
 Lorsqu'il y aura lieu de pourvoir aux dépenses d'entretien ou de réparation des ouvrages de navigation, de levées, barrages,
 pertuis, écluses, auxquels les propriétaires de moulins ou d'usines sont intéressés ou dont ils usent en commun avec le
 service de la navigation ou au curage des canaux qui sont en même temps de navigation et de dessèchement, ces dépenses seront
-réparties entre l'Etat et les propriétaires par un règlement d'administration publique.
+réparties entre le propriétaire du domaine public fluvial et les propriétaires par un décret en Conseil d'Etat.
 
-Toutefois, le montant de la participation annuelle visée à l'alinéa précédent, sera fixé par arrêté préfectoral sous réserve
-de l'approbation préalable du ministre des travaux publics chaque fois qu'un accord se sera établi à ce sujet entre
-l'administration et les intéressés.
+Toutefois, le montant de la participation annuelle visée à l'alinéa précédent, sera fixé par décision de l'autorité
+compétente chaque fois qu'un accord se sera établi à ce sujet entre l'administration et les intéressés.
 
 **Liens relatifs à cet article**
 
@@ -1457,6 +1628,14 @@ _Anciens textes_:
 
   - Décret-loi 1926-12-28 art. 1
   - Loi n°1807-09-16 art. 34
+
+_Modifié par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ### Chapitre III : Répression des infractions<a id=13></a>
@@ -1493,9 +1672,9 @@ _Abrogé par_:
 
 ###### Article 41
 
-Les contraventions sont constatées concurremment par les fonctionnaires des ponts et chaussées, les agents de la navigation
-intérieure, les conducteurs de chantiers ou agents de travaux assermentés à cet effet ou par les maires ou adjoints, les
-commissaires de police, les gardes champêtres et la gendarmerie.
+Les contraventions sont constatées concurremment par les fonctionnaires des services de l'Etat, des collectivités
+territoriales et de leurs groupements, les conducteurs de chantier ou agents de travaux assermentés à cet effet ou par les
+maires adjoints et les gardes champêtres.
 
 Les fonctionnaires publics ci-dessus désignés qui n'ont pas prêté serment en justice le prêteront devant le préfet.
 
@@ -1512,6 +1691,14 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Loi n°29 floréal an X art. 2
+
+_Modifié par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article 42
