@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1956-10-16
+Version Consolidée au 1962-01-10
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -43,7 +43,7 @@ Version Consolidée au 1956-10-16
       - [Chapitre II : Réglementation de l'affrètement (art. 186 à 188)](#40)
       - [Chapitre III : Contrats de transports (art. 190 à 198)](#41)
       - [Chapitre IV : Fret (art. 199 à 200)](#42)
-      - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 202 à 210)](#43)
+      - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 201 à 210)](#43)
       - [Chapitre VI : Coordination des transports (art. 211 à 212)](#44)
     - [Titre V : Police de la navigation (art. 213 à 216)](#45)
       - [Chapitre Ier : Dispositions générales (art. 213 à 215)](#46)
@@ -5359,6 +5359,48 @@ _Cité par_:
 
 
 ### Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions<a id=43></a>
+
+###### Article 201
+
+Le ministre de l'équipement et du logement peut prescrire ou donner délégation au directeur de l'office national de la
+navigation à l'effet de prescrire les mesures suivantes :
+
+1° Obligation dans le cas de transports traités par contrat au tonnage, de n'utiliser que des bateaux appartenant au
+transporteur contractant ou mis à sa disposition d'une manière continue pour une durée minima fixée dans la décision ;
+
+2° Interdiction des contrats au tonnage ne comportant pas l'engagement de transporter effectivement un tonnage au moins égal
+au chiffre minima fixé par la décision et dans un délai également fixé par cette décision ;
+
+3° Fixation d'une durée minima pour les contrats à temps ou interdiction de ces contrats ;
+
+4° Privation du droit d'inscription au tour de rôle de bateaux pris en location pendant la durée de ces locations ;
+
+5° Obligation pour tout titulaire d'un contrat de transport autre qu'au voyage de rapporter au tour de rôle prévu à l'article
+191 ci-dessus une fraction des transports prévus à ce contrat ;
+
+6° Interdiction des contrats autres qu'au voyage pour des parcours ou des transports déterminés, ou d'une manière générale ;
+
+7° Réglementation ou interdiction de la mise à disposition continue d'un bateau à un tiers par contrat autre que le contrat à
+temps.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-1033 1956-10-13
+
+_Abrogé par_:
+
+  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
+
+_Cite_:
+
+  - Code du domaine public fluvial et de la navigation - art. 191 (M)
+
+_Anciens textes_:
+
+  - Loi n°1941-03-22 art. 16
+
 
 ###### Article 202
 
