@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1992-01-04
+Version Consolidée au 1993-03-30
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 1992-01-04
     - [Titre III : Conservation et gestion du domaine public fluvial (art. 23 à 44)](#7)
       - [Chapitre Ier : Conservation du domaine public fluvial. (art. 23 à 29)](#8)
       - [Chapitre II : Gestion du domaine public fluvial (art. 33 à 39)](#9)
-        - [Section 2 : Dispositions particulières aux prises d'eau sur les cours d'eau domaniaux. (art. 34 à 36)](#10)
+        - [Section 2 : Dispositions particulières aux prises d'eau sur les cours d'eau domaniaux. (art. 33 à 36)](#10)
         - [Section 3 : Dispositions diverses. (art. 37 à 39)](#11)
       - [Chapitre III : Répression des infractions (art. 40 à 44)](#12)
     - [Titre IV : Défense contre les inondations (art. 55 à 61)](#13)
@@ -1113,24 +1113,20 @@ _Nouveaux textes_:
 
 ### Chapitre II : Gestion du domaine public fluvial<a id=9></a>
 
+#### Section 2 : Dispositions particulières aux prises d'eau sur les cours d'eau domaniaux.<a id=10></a>
+
 ###### Article 33
 
-L'autorité compétente pour statuer, après enquête , sur les établissements et prises d'eau ayant pour effet de modifier le
-régime, le niveau ou le mode d'écoulement des eaux est le commissaire de la République du département sur le territoire
-duquel est situé l'établissement.
+L'autorité compétente pour statuer, après enquête sur une installation, un ouvrage, une activité ou des travaux soumis à
+autorisation en application de l'article 10 de la loi n° 92-3 du 3 janvier 1992 susvisée, est le préfet du département sur le
+territoire duquel l'installation, l'ouvrage, l'activité ou les travaux doivent être réalisés.
 
-Lorsque l'établissement ou la prise d'eau doit être réalisé sur le territoire de deux ou plusieurs départements, il est
-statué par un arrêté conjoint des commissaires de la République des départements intéressés.
+Lorsque l'installation, l'ouvrage, l'activité ou les travaux doivent être réalisés sur le territoire de deux ou plusieurs
+départements, il est statué par un arrêté conjoint des préfets des départements intéressés.
 
-Toutefois, en cas de désaccord du maire de l'une des communes sur le territoire desquelles l'enquête a été ouverte, il est
-statué par décret en Conseil d'Etat.
-
-Lorsqu'il s'agit d'un établissement ou d'une prise d'eau n'ayant pas pour effet de modifier le régime, le niveau ou le mode
-d'écoulement des eaux, ou d'un établissement temporaire, le commissaire de la République du département sur lequel est situé
-l'établissement statue sans enquête. L'autorisation d'un établissement temporaire ne peut excéder deux années et n'est pas
-renouvelable.
-
-Un décret en Conseil d'Etat fixe les modalités d'application présent article.
+Toutefois, en cas de désaccord du maire de l'une des communes sur le territoire desquelles l'enquête a été ouverte, et si
+l'objet de l'enquête fait partie d'un projet d'infrastructure du domaine public fluvial d'un coût supérieur à 12 millions de
+francs, il est statué par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1143,9 +1139,13 @@ _Cité par_:
   - Décret n°79-1108 du 20 décembre 1979 - art. 16 (M)
   - Décret n°79-1108 du 20 décembre 1979 - art. 17 (Ab)
 
+_Cite_:
+
+  - Loi n°92-3 1992-01-03 art. 10
+
 _Modifié par_:
 
-  - Décret n°87-1011 du 11 décembre 1987 - art. 1 () JORF 18 décembre 1987
+  - Décret n°93-742 du 29 mars 1993 - art. 46 () JORF 30 mars 1993
 
 _Anciens textes_:
 
@@ -1154,8 +1154,6 @@ _Anciens textes_:
   - Loi n°1898-04-08 du 8 avril 1898 - art. 42 (Ab)
   - Loi n°1898-04-08 du 8 avril 1898 - art. 43 (Ab)
 
-
-#### Section 2 : Dispositions particulières aux prises d'eau sur les cours d'eau domaniaux.<a id=10></a>
 
 ###### Article 34
 
