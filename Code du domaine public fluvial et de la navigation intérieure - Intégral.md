@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2003-07-31
+Version Consolidée au 2003-12-20
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -1640,28 +1640,6 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code général de la propriété des personnes publiqu - art. L2132-23 (M)
-
-
-###### Article 42
-
-Les procès-verbaux constatant des contraventions de grande voirie, dressés par les brigadiers et les gendarmes, ou écrits et
-signés par les agents de la navigation intérieure, sont dispensés d'affirmation. Les autres devront être affirmés devant le
-juge de paix ou devant le maire ou l'adjoint du lieu.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1812-04-10 art. 1
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 2 () JORF 20 décembre 2003
 
 
 ###### Article 43
@@ -4643,10 +4621,7 @@ _Cite_:
 
 Les procès-verbaux dressés en exécution de l'article précédent sont dispensés d'enregistrement et de timbre.
 
-Ceux qui ont été dressés par des agents de surveillance et gardes assermentés doivent, à peine de nullité, être affirmés dans
-les trois jours devant le juge du tribunal d'instance ou le maire, soit du lieu du délit, soit de la résidence de l'agent.
-
-Lesdits procès-verbaux font foi jusqu'à preuve contraire.
+Ils font foi jusqu'à preuve contraire.
 
 Les procès-verbaux qui ont été dressés dans les ports étrangers par les hommes de l'art désignés en l'article 152 ci-dessus,
 sont enregistrés à la chancellerie du consulat et envoyés en originaux au ministre de l'équipement et du logement afin que
@@ -4656,15 +4631,19 @@ les poursuites soient exercées devant les tribunaux compétents.
 
 _Codifié par_:
 
-  - Décret n°56-1033 1956-10-13
+  - Décret n°56-1033 du 13 octobre 1956
+
+_Modifié par_:
+
+  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 3 () JORF 20 décembre 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
-  - Code du domaine public fluvial et de la navigation - art. 152 (V)
-
-_Anciens textes_:
-
-  - Loi n°1856-07-21 art. 22
+  - Code du domaine public fluvial et de la navigation intérieure - art. 152
 
 
 ###### Article 154
