@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1996-06-06
+Version Consolidée au 1996-10-02
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -37,7 +37,7 @@ Version Consolidée au 1996-06-06
     - [Titre III : Régime du travail (art. 183 à 184)](#34)
     - [Titre IV : Exploitation commerciale des voies navigables (art. 189 à 212)](#35)
       - [Chapitre III : Contrats de transports (art. 189 à 198)](#36)
-      - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 206 à 209)](#37)
+      - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 209)](#37)
       - [Chapitre VI : Coordination des transports (art. 212)](#38)
     - [Titre V : Police de la navigation (art. 213 à 216)](#39)
       - [Chapitre Ier : Dispositions générales (art. 213 à 215)](#40)
@@ -5344,67 +5344,6 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-###### Article 191
-
-Le contrat au voyage est libellé conformément à des types fixés par arrêté du ministre chargé des transports.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13
-
-_Modifié par_:
-
-  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-_Abrogé par_:
-
-  - Décret n°96-855 du 30 septembre 1996 - art. 1 (Ab) JORF 2 octobre 1996
-
-_Cité par_:
-
-  - Code du domaine public fluvial et de la navigation - art. 201 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°1941-03-22 art. 8
-
-
-###### Article 192
-
-L'arrêté prévu à l'article ci-dessus fixe notamment :
-
-1° La durée maxima des délais de planche au chargement et au déchargement ;
-
-2° Les taux des surestaries ;
-
-3° Les conditions d'application des primes par jour gagné au chargement et au déchargement lorsqu'il en est prévu, sans que
-ces primes puissent s'appliquer à un nombre de jours supérieur à la moitié des jours de planche ni que leur taux puisse
-dépasser la moitié de celui prévu pour la première période de surestaries ;
-
-4° Les conditions dans lesquelles le transporteur peut recevoir des avances sur fret sur lesquelles il ne peut être retenu ni
-intérêt, ni escompte, ni commission d'aucune sorte ;
-
-5° Le taux maximum de la commission d'affrètement.
-
-Le contrat au voyage est dispensé d'enregistrement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13
-
-_Abrogé par_:
-
-  - Décret n°96-855 du 30 septembre 1996 - art. 1 (Ab) JORF 2 octobre 1996
-
-_Anciens textes_:
-
-  - Loi n°1941-03-22 art. 9
-
-
 ###### Article 196
 
 Le chargement et le déchargement ne sont considérés comme terminés que lorsque le transporteur a reçu à bord la lettre de
@@ -5493,52 +5432,6 @@ _Nouveaux textes_:
 
 
 ### Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions<a id=37></a>
-
-###### Article 206
-
-Tous les contrats de transports, y compris les contrats à temps, sont obligatoirement soumis à un visa administratif délivré
-par le directeur régional pour les contrats au tonnage ou à temps et par le bureau d'affrètement pour les contrats au voyage,
-lequel n'est délivré qu'autant que ces documents sont conformes à la réglementation en vigueur. Toute modification apportée à
-ces conventions doit être soumise dans les mêmes conditions au visa administratif.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 29 juin 1942 - art. 11 bis (V)
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13
-
-_Abrogé par_:
-
-  - Décret n°96-855 du 30 septembre 1996 - art. 1 (Ab) JORF 2 octobre 1996
-
-_Anciens textes_:
-
-  - Loi n°1941-03-22 art. 26
-
-
-###### Article 207
-
-Sont nulles de plein droit toutes suppressions ou modifications des contrats dérogeant aux clauses obligatoires, ainsi que
-toutes stipulations contenues, soit dans l'écrit lui-même, soit dans un écrit distinct et tendant à échapper à ces clauses.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13
-
-_Abrogé par_:
-
-  - Décret n°96-855 du 30 septembre 1996 - art. 1 (Ab) JORF 2 octobre 1996
-
-_Anciens textes_:
-
-  - Loi n°1941-03-22 art. 27
-
 
 ###### Article 209
 
