@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1978-01-01
+Version Consolidée au 1979-07-13
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -1752,6 +1752,39 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi n°6 frimaire an VII art. 26
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 64
+
+Les tarifs de péage des bacs et passages d'eau autres que ceux qui desservent les routes et chemins à la charge du
+département, sont fixés par les préfets, après enquête, sur la proposition des ingénieurs du service de la navigation.
+
+Pour les bacs ou passages d'eau sur les routes ou chemins à la charge du département, les tarifs sont fixés par le conseil
+général dans les limites prévues à l'article 4 de la loi n° 79-591 du 12 juillet 1979 relative à certains ouvrages reliant
+les voies nationales ou départementales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-1033 1956-10-13
+
+_Anciens textes_:
+
+  - Décret-loi 1926-10-01 art. 2
+  - Loi n°1871-08-10 art. 46
+
+_Cite_:
+
+  - Loi n°79-591 du 12 juillet 1979 - art. 4
+
+_Modifié par_:
+
+  - Loi n°79-591 du 12 juillet 1979 - art. 5 () JORF du 13 juillet 1979
 
 _Abrogé par_:
 
