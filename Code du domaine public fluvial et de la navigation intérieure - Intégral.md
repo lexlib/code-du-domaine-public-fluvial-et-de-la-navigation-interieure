@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1994-07-13
+Version Consolidée au 1996-06-06
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -37,24 +37,23 @@ Version Consolidée au 1994-07-13
     - [Titre III : Régime du travail (art. 183 à 184)](#34)
     - [Titre IV : Exploitation commerciale des voies navigables (art. 189 à 212)](#35)
       - [Chapitre III : Contrats de transports (art. 189 à 198)](#36)
-      - [Chapitre IV : Fret (art. 199)](#37)
-      - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 206 à 209)](#38)
-      - [Chapitre VI : Coordination des transports (art. 212)](#39)
-    - [Titre V : Police de la navigation (art. 213 à 216)](#40)
-      - [Chapitre Ier : Dispositions générales (art. 213 à 215)](#41)
-      - [Chapitre II : Dispositions spéciales au transport des matières dangereuses (art. 216)](#42)
-    - [Titre VI : Modernisation des voies navigables (art. 217 à 226)](#43)
-  - [Livre VI : Dispositions particulières (art. 227 à 245)](#44)
-    - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. 227 à 235)](#45)
-      - [Chapitre Ier : Dispositions relatives aux voies navigables (art. 227)](#46)
-      - [Chapitre II : Dispositions relatives aux bateaux de navigation intérieure (art. 228 à 232)](#47)
-      - [Chapitre III : Dispositions concernant la navigation sur le Rhin (art. 233 à 235)](#48)
-    - [Titre II : Dispositions particulières au canal du Midi (art. 236 à 245)](#49)
-      - [Chapitre Ier : Du domaine du canal (art. 236)](#50)
-      - [Chapitre II : De l'alimentation et de la propriété des eaux (art. 237 à 240)](#51)
-      - [Chapitre III : Des contre-canaux, rigoles et fossés (art. 241 à 244)](#52)
-      - [Chapitre IV : Des ouvrages d'art (art. 245)](#53)
-  - [DISPOSITIONS FINALES. (art. 246)](#54)
+      - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 206 à 209)](#37)
+      - [Chapitre VI : Coordination des transports (art. 212)](#38)
+    - [Titre V : Police de la navigation (art. 213 à 216)](#39)
+      - [Chapitre Ier : Dispositions générales (art. 213 à 215)](#40)
+      - [Chapitre II : Dispositions spéciales au transport des matières dangereuses (art. 216)](#41)
+    - [Titre VI : Modernisation des voies navigables (art. 217 à 226)](#42)
+  - [Livre VI : Dispositions particulières (art. 227 à 245)](#43)
+    - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. 227 à 235)](#44)
+      - [Chapitre Ier : Dispositions relatives aux voies navigables (art. 227)](#45)
+      - [Chapitre II : Dispositions relatives aux bateaux de navigation intérieure (art. 228 à 232)](#46)
+      - [Chapitre III : Dispositions concernant la navigation sur le Rhin (art. 233 à 235)](#47)
+    - [Titre II : Dispositions particulières au canal du Midi (art. 236 à 245)](#48)
+      - [Chapitre Ier : Du domaine du canal (art. 236)](#49)
+      - [Chapitre II : De l'alimentation et de la propriété des eaux (art. 237 à 240)](#50)
+      - [Chapitre III : Des contre-canaux, rigoles et fossés (art. 241 à 244)](#51)
+      - [Chapitre IV : Des ouvrages d'art (art. 245)](#52)
+  - [DISPOSITIONS FINALES. (art. 246)](#53)
 # Livre Ier : Du domaine public fluvial<a id=1></a>
 
 ## Titre Ier : Consistance, classement, déclassement du domaine public fluvial.<a id=2></a>
@@ -5493,30 +5492,7 @@ _Nouveaux textes_:
   - Code des transports - art. L4463-1 (M)
 
 
-### Chapitre IV : Fret<a id=37></a>
-
-###### Article 199
-
-Il est établi auprès de chaque direction régionale une chambre syndicale de courtiers de fret.
-
-Sont seuls admis à représenter les tiers aux bourses d'affrètement organisées dans la circonscription de la direction
-régionale les courtiers de fret inscrits à cette chambre syndicale et qui en observent le règlement.
-
-Les règlements des diverses chambres sont approuvés par les directeurs des Voies navigables de France.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1944-06-03 art. 2
-  - Loi n°1941-03-22 art. 13
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13
-
-
-### Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions<a id=38></a>
+### Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions<a id=37></a>
 
 ###### Article 206
 
@@ -5611,7 +5587,7 @@ _Anciens textes_:
   - Loi n°1941-03-22 art. 29
 
 
-### Chapitre VI : Coordination des transports<a id=39></a>
+### Chapitre VI : Coordination des transports<a id=38></a>
 
 ###### Article 212
 
@@ -5632,9 +5608,9 @@ _Anciens textes_:
   - Loi n°1941-03-22 art. 25
 
 
-## Titre V : Police de la navigation<a id=40></a>
+## Titre V : Police de la navigation<a id=39></a>
 
-### Chapitre Ier : Dispositions générales<a id=41></a>
+### Chapitre Ier : Dispositions générales<a id=40></a>
 
 ###### Article 213
 
@@ -5709,7 +5685,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-### Chapitre II : Dispositions spéciales au transport des matières dangereuses<a id=42></a>
+### Chapitre II : Dispositions spéciales au transport des matières dangereuses<a id=41></a>
 
 ###### Article 216
 
@@ -5731,7 +5707,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-## Titre VI : Modernisation des voies navigables<a id=43></a>
+## Titre VI : Modernisation des voies navigables<a id=42></a>
 
 ###### Article 217
 
@@ -5988,11 +5964,11 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Livre VI : Dispositions particulières<a id=44></a>
+# Livre VI : Dispositions particulières<a id=43></a>
 
-## Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=45></a>
+## Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=44></a>
 
-### Chapitre Ier : Dispositions relatives aux voies navigables<a id=46></a>
+### Chapitre Ier : Dispositions relatives aux voies navigables<a id=45></a>
 
 ###### Article 227
 
@@ -6037,7 +6013,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L2124-19 (V)
 
 
-### Chapitre II : Dispositions relatives aux bateaux de navigation intérieure<a id=47></a>
+### Chapitre II : Dispositions relatives aux bateaux de navigation intérieure<a id=46></a>
 
 ###### Article 228
 
@@ -6211,7 +6187,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Chapitre III : Dispositions concernant la navigation sur le Rhin<a id=48></a>
+### Chapitre III : Dispositions concernant la navigation sur le Rhin<a id=47></a>
 
 ###### Article 233
 
@@ -6291,9 +6267,9 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre II : Dispositions particulières au canal du Midi<a id=49></a>
+## Titre II : Dispositions particulières au canal du Midi<a id=48></a>
 
-### Chapitre Ier : Du domaine du canal<a id=50></a>
+### Chapitre Ier : Du domaine du canal<a id=49></a>
 
 ###### Article 236
 
@@ -6338,7 +6314,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L2111-11 (V)
 
 
-### Chapitre II : De l'alimentation et de la propriété des eaux<a id=51></a>
+### Chapitre II : De l'alimentation et de la propriété des eaux<a id=50></a>
 
 ###### Article 237
 
@@ -6426,7 +6402,7 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-### Chapitre III : Des contre-canaux, rigoles et fossés<a id=52></a>
+### Chapitre III : Des contre-canaux, rigoles et fossés<a id=51></a>
 
 ###### Article 241
 
@@ -6549,7 +6525,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2124-59 (V)
 
 
-### Chapitre IV : Des ouvrages d'art<a id=53></a>
+### Chapitre IV : Des ouvrages d'art<a id=52></a>
 
 ###### Article 245
 
@@ -6576,7 +6552,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L2124-25 (V)
 
 
-# DISPOSITIONS FINALES.<a id=54></a>
+# DISPOSITIONS FINALES.<a id=53></a>
 
 ###### Article 246
 
