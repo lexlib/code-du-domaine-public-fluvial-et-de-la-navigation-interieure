@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1971-06-11
+Version Consolidée au 1974-04-02
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -5917,48 +5917,6 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-###### Article 223
-
-Il est créé une commission de vingt membres au maximum composée par moitié de représentants de l'administration et par moitié
-de représentants de la batellerie. La présidence de cette commission est assurée par le directeur de l'office national de la
-navigation qui a voix prépondérante en cas de partage. Parmi les représentants de l'administration figure obligatoirement un
-délégué du commissariat général au plan.
-
-Les membres de la commission sont nommés pour une durée de trois ans par arrêté du ministre de l'équipement et du logement,
-sur proposition du directeur de l'office national de la navigation, en ce qui concerne les représentants de l'administration,
-et sur présentation des organisations nationales professionnelles de la navigation intérieure en ce qui concerne les
-représentants de la batellerie.
-
-Les membres de la commission cessent d'en faire partie au moment où prennent fin les fonctions à raison desquelles ils ont
-été nommés.
-
-La commission est obligatoirement consultée avant l'institution des taxes dans les conditions prévues à l'article 220 ci-
-dessus. Elle est également consultée par le ministre de l'équipement et du logement sur la liste des travaux auxquels sont
-affectées les taxes et est informée de l'utilisation des fonds d'emprunt, de l'emploi des taxes et de l'état d'avancement des
-travaux financés à l'aide de ces taxes, ainsi que du montant des frais de perception de celles-ci.
-
-La commission se réunit au moins une fois par trimestre. Elle est convoquée par son président, soit d'office, soit à la
-demande du ministre de l'équipement et du logement, soit à la demande de la majorité de ses membres.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°53-301 1953-04-09 art. 7
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13
-
-_Abrogé par_:
-
-  - Décret n°74-266 1974-03-26 art. 1 JORF 02 avril 1974
-
-_Cite_:
-
-  - Code du domaine public fluvial et de la navigation - art. 220 (M)
-
-
 ###### Article 224
 
 L'office national de la navigation est habilité à accepter les contributions volontaires effectuées par des établissements ou
@@ -5977,6 +5935,27 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°56-1033 1956-10-13
+
+
+###### Article 225
+
+La liste des travaux d'amélioration et de modernisation financés en tout ou partie dans les conditions prévues par le présent
+titre est arrêtée chaque année par le ministre de l'équipement et du logement, sur proposition du conseil d'administration de
+l'office national de la navigation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°53-301 1953-04-09 art. 9
+
+_Codifié par_:
+
+  - Décret n°56-1033 1956-10-13
+
+_Modifié par_:
+
+  - Décret n°74-266 1974-03-26 art. 1 JORF 02 avril 1974
 
 
 ###### Article 226
