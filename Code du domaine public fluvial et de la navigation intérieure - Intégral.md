@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1962-01-10
+Version Consolidée au 1964-12-18
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -150,6 +150,45 @@ _Modifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+
+###### Article 2-1
+
+Le classement d'un cours d'eau, d'une section de cours d'eau ou d'un lac dans le domaine public, pour l'un des motifs
+énumérés à l'avant-dernier alinéa de l'article 1er, est prononcé, après enquête d'utilité publique, par décret en Conseil
+d'Etat pris sur le rapport du ou des ministres intéressés et du ministre chargé de la police ou de la gestion de ce cours
+d'eau ou de ce lac, après avis du ministre des finances et des affaires économiques, tous les droits des riverains du cours
+d'eau ou du propriétaire du lac et des tiers réservés.
+
+Les indemnités pouvant être dues en raison des dommages entraînés par ce classement sont fixées comme en matière
+d'expropriation pour cause d'utilité publique, compensation faite des avantages que les intéressés peuvent en retirer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+_Anciens textes_:
+
+  - Loi n°64-1245 1964-12-16 art. 29
+
+_Créé par_:
+
+  - Loi n°64-1245 1964-12-16 art. 29 JORF 18 décembre 1964
+
+_Cité par_:
+
+  - Décret n°2005-992 du 16 août 2005 - art. 2 (Ab)
+  - Code du domaine public fluvial et de la navigation - art. 1 (Ab)
+  - Code du domaine public fluvial et de la navigation - art. 1-1 (Ab)
+  - Code du domaine public fluvial et de la navigation - art. 1-5 (Ab)
+  - Code du domaine public fluvial et de la navigation - art. 15 (Ab)
+  - Code général de la propriété des personnes publ... - art. R2111-17 (VT)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2111-12 (V)
 
 
 ###### Article 3
