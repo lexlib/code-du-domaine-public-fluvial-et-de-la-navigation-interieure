@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1969-02-07
+Version Consolidée au 1971-06-11
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -40,7 +40,7 @@ Version Consolidée au 1969-02-07
     - [Titre IV : Exploitation commerciale des voies navigables (art. 185 à 212)](#37)
       - [Chapitre Ier : Dispositions générales (art. 185)](#38)
       - [Chapitre II : Réglementation de l'affrètement (art. 186 à 188)](#39)
-      - [Chapitre III : Contrats de transports (art. 190 à 198)](#40)
+      - [Chapitre III : Contrats de transports (art. 189 à 198)](#40)
       - [Chapitre IV : Fret (art. 199 à 200)](#41)
       - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 201 à 210)](#42)
       - [Chapitre VI : Coordination des transports (art. 211 à 212)](#43)
@@ -5133,6 +5133,35 @@ _Abrogé par_:
 
 ### Chapitre III : Contrats de transports<a id=40></a>
 
+###### Article 189
+
+Pour l'application du présent chapitre, est considérée comme effectuant un transport privé, toute personne physique ou morale
+transportant, avec des bateaux dont elle est propriétaire, des marchandises lui appartenant ou faisant l'objet de son
+commerce, de son industrie ou de son exploitation.
+
+Ces transports ne doivent constituer qu'une activité accessoire et complémentaire de l'activité principale exercée par la
+personne physique ou morale visée à l'alinéa précédent.
+
+Tous les autres transports sont des transports publics.
+
+Les bateaux utilisés aux transports privés ne peuvent pas participer aux transports publics, sauf dérogations accordées par
+le directeur de l'office national de la navigation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-1033 1956-10-13
+
+_Anciens textes_:
+
+  - Loi n°1941-03-22 art. 6
+
+_Modifié par_:
+
+  - Loi n°71-422 1971-06-10 art. 1 I, II JORF 11 juin 1971
+
+
 ###### Article 190
 
 A peine de nullité absolue, tout contrat de transport par voie de navigation intérieure est constaté par un document écrit.
@@ -5157,6 +5186,48 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi n°1941-03-22 art. 7
+
+
+###### Article 191
+
+Le contrat au voyage, qu'il ait pour objet un voyage déterminé (contrat au voyage simple) ou une série de voyages successifs
+effectués par un même bateau (contrat de voyages multiples), est obligatoirement conclu dans un bureau d'affrètement et selon
+des taux de fret fixés comme il est dit à l'article 200 du présent code. Toutefois, lorsqu'un contrat de voyages multiples
+concerne l'exécution d'une partie des transports faisant l'objet d'un contrat au tonnage, les conditions et le taux de fret
+sont ceux qui sont prévus par le contrat au tonnage.
+
+Le contrat au voyage est libellé conformément à des types fixés par arrêté du ministre chargé des transports.
+
+Le contrat au voyage simple doit être conclu suivant le tour de rôle établi par le bureau d'affrètement. Le contrat de
+voyages multiples doit être conclu suivant les modalités d'attribution prévues par le règlement intérieur du bureau
+d'affrètement.
+
+Les règlements intérieurs des bureaux d'affrètement ou des décisions spéciales du directeur de l'office national de la
+navigation peuvent dispenser du tour de rôle ou des modalités d'attribution prévues à l'alinéa précédent et même des frets
+obligatoires les contrats au voyage portant, soit sur des transports exceptionnels, soit sur des transports dont les
+conditions particulières justifient cette dispense, ou les contrats au voyage conclus dans certains bureaux d'affrètement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-1033 1956-10-13
+
+_Modifié par_:
+
+  - Loi n°71-422 1971-06-10 art. 2 JORF 11 juin 1971
+
+_Cite_:
+
+  - Code du domaine public fluvial et de la navigation - art. 200 (Ab)
+
+_Cité par_:
+
+  - Code du domaine public fluvial et de la navigation - art. 201 (Ab)
+
+_Anciens textes_:
+
+  - Loi n°1941-03-22 art. 8
 
 
 ###### Article 192
