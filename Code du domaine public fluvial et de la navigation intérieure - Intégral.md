@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1974-04-02
+Version Consolidée au 1974-10-16
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -14,51 +14,50 @@ Version Consolidée au 1974-04-02
         - [Section 2 : Dispositions particulières aux prises d'eau sur les cours d'eau domaniaux. (art. 34 à 36)](#11)
         - [Section 3 : Dispositions diverses. (art. 37 à 39)](#12)
       - [Chapitre III : Répression des infractions (art. 40 à 44)](#13)
-    - [Titre IV : Défense contre les inondations (art. 45 à 61)](#14)
-      - [Chapitre Ier : Dispositions générales (art. 45 à 47)](#15)
-      - [Chapitre II : Travaux dans les vallées submersibles (art. 48 à 53)](#16)
-      - [Chapitre III : Dispositions spéciales à la Loire et à ses affluents (art. 55 à 61)](#17)
-    - [Titre V : Bacs et passages d'eau (art. 62 à 77)](#18)
-  - [Livre II : Des bateaux (art. 78 à 158)](#19)
-    - [Titre Ier : Régime juridique des bateaux de navigation intérieure (art. 78 à 136)](#20)
-      - [Chapitre Ier : Immatriculation (art. 78 à 88)](#21)
-      - [Chapitre II : Privilèges et hypothèques sur bateaux (art. 89 à 99)](#22)
-      - [Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure (art. 100 à 112)](#23)
-      - [Chapitre IV : De la purge des hypothèques (art. 113 à 117)](#24)
-      - [Chapitre V : De la saisie et de la vente forcée (art. 118 à 136)](#25)
-    - [Titre II : Réglementation de l'usage d'appareils à pression de vapeur ou de gaz à bord, pénalités (art. 138 à 154)](#26)
-    - [Titre III : Reconstruction et renouvellement du parc fluvial (art. 155 à 158)](#27)
-  - [Livre III : Des mariniers (art. 159 à 175)](#28)
-    - [Titre Ier : Des patrons bateliers (art. 159 à 168)](#29)
-    - [Titre II : Des compagnons bateliers (art. 169 à 172)](#30)
-    - [Titre III : Des chambres de batellerie (art. 173)](#31)
-    - [Titre IV : Dispositions générales (art. 174 à 175)](#32)
-  - [Livre IV : Office national de la navigation (art. 176 à 180)](#33)
-  - [Livre V : De l'exploitation et de la modernisation des voies navigables (art. 182 à 226)](#34)
-    - [Titre II : Voies ferrées des quais (art. 182)](#35)
-    - [Titre III : Régime du travail (art. 183 à 184)](#36)
-    - [Titre IV : Exploitation commerciale des voies navigables (art. 185 à 212)](#37)
-      - [Chapitre Ier : Dispositions générales (art. 185)](#38)
-      - [Chapitre II : Réglementation de l'affrètement (art. 186 à 188)](#39)
-      - [Chapitre III : Contrats de transports (art. 189 à 198)](#40)
-      - [Chapitre IV : Fret (art. 199 à 200)](#41)
-      - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 201 à 210)](#42)
-      - [Chapitre VI : Coordination des transports (art. 211 à 212)](#43)
-    - [Titre V : Police de la navigation (art. 213 à 216)](#44)
-      - [Chapitre Ier : Dispositions générales (art. 213 à 215)](#45)
-      - [Chapitre II : Dispositions spéciales au transport des matières dangereuses (art. 216)](#46)
-    - [Titre VI : Modernisation des voies navigables (art. 217 à 226)](#47)
-  - [Livre VI : Dispositions particulières (art. 227 à 245)](#48)
-    - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. 227 à 235)](#49)
-      - [Chapitre Ier : Dispositions relatives aux voies navigables (art. 227)](#50)
-      - [Chapitre II : Dispositions relatives aux bateaux de navigation intérieure (art. 228 à 232)](#51)
-      - [Chapitre III : Dispositions concernant la navigation sur le Rhin (art. 233 à 235)](#52)
-    - [Titre II : Dispositions particulières au canal du Midi (art. 236 à 245)](#53)
-      - [Chapitre Ier : Du domaine du canal (art. 236)](#54)
-      - [Chapitre II : De l'alimentation et de la propriété des eaux (art. 237 à 240)](#55)
-      - [Chapitre III : Des contre-canaux, rigoles et fossés (art. 241 à 244)](#56)
-      - [Chapitre IV : Des ouvrages d'art (art. 245)](#57)
-  - [DISPOSITIONS FINALES. (art. 246)](#58)
+    - [Titre IV : Défense contre les inondations (art. 48 à 61)](#14)
+      - [Chapitre II : Travaux dans les vallées submersibles (art. 48 à 53)](#15)
+      - [Chapitre III : Dispositions spéciales à la Loire et à ses affluents (art. 55 à 61)](#16)
+    - [Titre V : Bacs et passages d'eau (art. 62 à 77)](#17)
+  - [Livre II : Des bateaux (art. 78 à 158)](#18)
+    - [Titre Ier : Régime juridique des bateaux de navigation intérieure (art. 78 à 136)](#19)
+      - [Chapitre Ier : Immatriculation (art. 78 à 88)](#20)
+      - [Chapitre II : Privilèges et hypothèques sur bateaux (art. 89 à 99)](#21)
+      - [Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure (art. 100 à 112)](#22)
+      - [Chapitre IV : De la purge des hypothèques (art. 113 à 117)](#23)
+      - [Chapitre V : De la saisie et de la vente forcée (art. 118 à 136)](#24)
+    - [Titre II : Réglementation de l'usage d'appareils à pression de vapeur ou de gaz à bord, pénalités (art. 138 à 154)](#25)
+    - [Titre III : Reconstruction et renouvellement du parc fluvial (art. 155 à 158)](#26)
+  - [Livre III : Des mariniers (art. 159 à 175)](#27)
+    - [Titre Ier : Des patrons bateliers (art. 159 à 168)](#28)
+    - [Titre II : Des compagnons bateliers (art. 169 à 172)](#29)
+    - [Titre III : Des chambres de batellerie (art. 173)](#30)
+    - [Titre IV : Dispositions générales (art. 174 à 175)](#31)
+  - [Livre IV : Office national de la navigation (art. 176 à 180)](#32)
+  - [Livre V : De l'exploitation et de la modernisation des voies navigables (art. 182 à 226)](#33)
+    - [Titre II : Voies ferrées des quais (art. 182)](#34)
+    - [Titre III : Régime du travail (art. 183 à 184)](#35)
+    - [Titre IV : Exploitation commerciale des voies navigables (art. 185 à 212)](#36)
+      - [Chapitre Ier : Dispositions générales (art. 185)](#37)
+      - [Chapitre II : Réglementation de l'affrètement (art. 186 à 188)](#38)
+      - [Chapitre III : Contrats de transports (art. 189 à 198)](#39)
+      - [Chapitre IV : Fret (art. 199 à 200)](#40)
+      - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 201 à 210)](#41)
+      - [Chapitre VI : Coordination des transports (art. 211 à 212)](#42)
+    - [Titre V : Police de la navigation (art. 213 à 216)](#43)
+      - [Chapitre Ier : Dispositions générales (art. 213 à 215)](#44)
+      - [Chapitre II : Dispositions spéciales au transport des matières dangereuses (art. 216)](#45)
+    - [Titre VI : Modernisation des voies navigables (art. 217 à 226)](#46)
+  - [Livre VI : Dispositions particulières (art. 227 à 245)](#47)
+    - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. 227 à 235)](#48)
+      - [Chapitre Ier : Dispositions relatives aux voies navigables (art. 227)](#49)
+      - [Chapitre II : Dispositions relatives aux bateaux de navigation intérieure (art. 228 à 232)](#50)
+      - [Chapitre III : Dispositions concernant la navigation sur le Rhin (art. 233 à 235)](#51)
+    - [Titre II : Dispositions particulières au canal du Midi (art. 236 à 245)](#52)
+      - [Chapitre Ier : Du domaine du canal (art. 236)](#53)
+      - [Chapitre II : De l'alimentation et de la propriété des eaux (art. 237 à 240)](#54)
+      - [Chapitre III : Des contre-canaux, rigoles et fossés (art. 241 à 244)](#55)
+      - [Chapitre IV : Des ouvrages d'art (art. 245)](#56)
+  - [DISPOSITIONS FINALES. (art. 246)](#57)
 # Livre Ier : Du domaine public fluvial<a id=1></a>
 
 ## Titre Ier : Consistance, classement, déclassement du domaine public fluvial.<a id=2></a>
@@ -1364,92 +1363,7 @@ _Cite_:
 
 ## Titre IV : Défense contre les inondations<a id=14></a>
 
-### Chapitre Ier : Dispositions générales<a id=15></a>
-
-###### Article 45
-
-Les départements et les communes sont autorisés à exécuter, sous le contrôle du ministre de l'équipement et du logement, à
-leurs frais, avec ou sans subvention de l'Etat, et soit isolément, soit après constitution d'associations départementales ou
-interdépartementales, tous travaux de protection contre les inondations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Décret n°74-851 du 8 octobre 1974 - art. 9 (Ab) JORF 16 octobre 1974
-
-_Cité par_:
-
-  - Décret n°74-851 du 8 octobre 1974 - art. 9 (Ab)
-  - Code du domaine public fluvial et de la navigat... - art. 209 (VT)
-
-_Anciens textes_:
-
-  - Décret-loi 1938-11-12 art. 1
-
-
-###### Article 46
-
-Des décrets en Conseil d'Etat sur les propositions du ministre de l'intérieur et du ministre de l'équipement et du logement,
-fixeront éventuellement le mode de constitution et de fonctionnement des associations visées à l'article ci-dessus.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Décret n°74-851 du 8 octobre 1974 - art. 9 (Ab) JORF 16 octobre 1974
-
-_Cité par_:
-
-  - Décret n°74-851 du 8 octobre 1974 - art. 9 (Ab)
-
-_Anciens textes_:
-
-  - Décret-loi 1938-11-12 art. 2
-
-
-###### Article 47
-
-Les départements, les communes et les associations dont la constitution est prévue à l'article 45 pourront être autorisés par
-un décret en Conseil d'Etat, à faire participer à leurs dépenses, tous les particuliers et toutes les collectivités
-intéressés aux travaux.
-
-Ce décret, après accomplissement d'une instruction dont les formes seront déterminées par un règlement d'administration
-publique, délimitera les zones dans lesquelles les intéressés seront appelés à contribuer aux dépenses, fixera la part
-contributive globale des intéressés aux dépenses, et arrêtera les bases générales de la répartition de cette contribution
-d'après le degré d'intérêt de chacun à l'exécution des travaux.
-
-Les rôles de répartition des sommes à recouvrer seront dressés sous la surveillance des préfets intéressés, et rendus
-exécutoires par eux, chacun en ce qui concerne son département.
-
-Le recouvrement sera fait dans les mêmes formes et avec les mêmes garanties qu'en matière de contributions directes.
-
-Le privilège ainsi créé prendra rang immédiatement après celui du Trésor public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Décret n°74-851 du 8 octobre 1974 - art. 9 (Ab) JORF 16 octobre 1974
-
-_Anciens textes_:
-
-  - Décret-loi 1938-11-12 art. 3
-
-
-### Chapitre II : Travaux dans les vallées submersibles<a id=16></a>
+### Chapitre II : Travaux dans les vallées submersibles<a id=15></a>
 
 ###### Article 48
 
@@ -1725,7 +1639,7 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 6
 
 
-### Chapitre III : Dispositions spéciales à la Loire et à ses affluents<a id=17></a>
+### Chapitre III : Dispositions spéciales à la Loire et à ses affluents<a id=16></a>
 
 ###### Article 55
 
@@ -1801,7 +1715,7 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-## Titre V : Bacs et passages d'eau<a id=18></a>
+## Titre V : Bacs et passages d'eau<a id=17></a>
 
 ###### Article 62
 
@@ -2027,11 +1941,11 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Livre II : Des bateaux<a id=19></a>
+# Livre II : Des bateaux<a id=18></a>
 
-## Titre Ier : Régime juridique des bateaux de navigation intérieure<a id=20></a>
+## Titre Ier : Régime juridique des bateaux de navigation intérieure<a id=19></a>
 
-### Chapitre Ier : Immatriculation<a id=21></a>
+### Chapitre Ier : Immatriculation<a id=20></a>
 
 ###### Article 78
 
@@ -2403,7 +2317,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Chapitre II : Privilèges et hypothèques sur bateaux<a id=22></a>
+### Chapitre II : Privilèges et hypothèques sur bateaux<a id=21></a>
 
 ###### Article 89
 
@@ -2656,7 +2570,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure<a id=23></a>
+### Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure<a id=22></a>
 
 ###### Article 100
 
@@ -3079,7 +2993,7 @@ _Cité par_:
   - Code du domaine public fluvial et de la navigat... - art. 113 (VD)
 
 
-### Chapitre IV : De la purge des hypothèques<a id=24></a>
+### Chapitre IV : De la purge des hypothèques<a id=23></a>
 
 ###### Article 113
 
@@ -3255,7 +3169,7 @@ _Anciens textes_:
   - Loi n°1917-07-05 art. 32
 
 
-### Chapitre V : De la saisie et de la vente forcée<a id=25></a>
+### Chapitre V : De la saisie et de la vente forcée<a id=24></a>
 
 ###### Article 118
 
@@ -3826,7 +3740,7 @@ _Anciens textes_:
   - Loi n°1917-07-05 art. 42
 
 
-## Titre II : Réglementation de l'usage d'appareils à pression de vapeur ou de gaz à bord, pénalités<a id=26></a>
+## Titre II : Réglementation de l'usage d'appareils à pression de vapeur ou de gaz à bord, pénalités<a id=25></a>
 
 ###### Article 138
 
@@ -4202,7 +4116,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre III : Reconstruction et renouvellement du parc fluvial<a id=27></a>
+## Titre III : Reconstruction et renouvellement du parc fluvial<a id=26></a>
 
 ###### Article 155
 
@@ -4333,9 +4247,9 @@ _Cite_:
   - Code du domaine public fluvial et de la navigation intérieure - art. 157
 
 
-# Livre III : Des mariniers<a id=28></a>
+# Livre III : Des mariniers<a id=27></a>
 
-## Titre Ier : Des patrons bateliers<a id=29></a>
+## Titre Ier : Des patrons bateliers<a id=28></a>
 
 ###### Article 159
 
@@ -4620,7 +4534,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre II : Des compagnons bateliers<a id=30></a>
+## Titre II : Des compagnons bateliers<a id=29></a>
 
 ###### Article 169
 
@@ -4757,7 +4671,7 @@ _Cite_:
   - Code du domaine public fluvial et de la navigation intérieure - art. 165
 
 
-## Titre III : Des chambres de batellerie<a id=31></a>
+## Titre III : Des chambres de batellerie<a id=30></a>
 
 ###### Article 173
 
@@ -4778,7 +4692,7 @@ _Anciens textes_:
   - Décret-Loi 1938-11-12 art. 15
 
 
-## Titre IV : Dispositions générales<a id=32></a>
+## Titre IV : Dispositions générales<a id=31></a>
 
 ###### Article 174
 
@@ -4820,7 +4734,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Livre IV : Office national de la navigation<a id=33></a>
+# Livre IV : Office national de la navigation<a id=32></a>
 
 ###### Article 176
 
@@ -4951,9 +4865,9 @@ _Anciens textes_:
   - Loi n°1940-11-11 art. 23
 
 
-# Livre V : De l'exploitation et de la modernisation des voies navigables<a id=34></a>
+# Livre V : De l'exploitation et de la modernisation des voies navigables<a id=33></a>
 
-## Titre II : Voies ferrées des quais<a id=35></a>
+## Titre II : Voies ferrées des quais<a id=34></a>
 
 ###### Article 182
 
@@ -4971,7 +4885,7 @@ _Cite_:
   - Code des ports maritimes 42 à 44
 
 
-## Titre III : Régime du travail<a id=36></a>
+## Titre III : Régime du travail<a id=35></a>
 
 ###### Article 183
 
@@ -5013,9 +4927,9 @@ _Cite_:
   - Code des ports maritimes
 
 
-## Titre IV : Exploitation commerciale des voies navigables<a id=37></a>
+## Titre IV : Exploitation commerciale des voies navigables<a id=36></a>
 
-### Chapitre Ier : Dispositions générales<a id=38></a>
+### Chapitre Ier : Dispositions générales<a id=37></a>
 
 ###### Article 185
 
@@ -5043,7 +4957,7 @@ _Abrogé par_:
   - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
 
 
-### Chapitre II : Réglementation de l'affrètement<a id=39></a>
+### Chapitre II : Réglementation de l'affrètement<a id=38></a>
 
 ###### Article 186
 
@@ -5131,7 +5045,7 @@ _Abrogé par_:
   - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
 
 
-### Chapitre III : Contrats de transports<a id=40></a>
+### Chapitre III : Contrats de transports<a id=39></a>
 
 ###### Article 189
 
@@ -5390,7 +5304,7 @@ _Nouveaux textes_:
   - Code des transports - art. L4463-1 (M)
 
 
-### Chapitre IV : Fret<a id=41></a>
+### Chapitre IV : Fret<a id=40></a>
 
 ###### Article 199
 
@@ -5442,7 +5356,7 @@ _Cité par_:
   - Code du domaine public fluvial et de la navigation - art. 191 (M)
 
 
-### Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions<a id=42></a>
+### Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions<a id=41></a>
 
 ###### Article 201
 
@@ -5729,7 +5643,7 @@ _Cité par_:
   - Décret n°2010-389 du 19 avril 2010 - art. 8 (Ab)
 
 
-### Chapitre VI : Coordination des transports<a id=43></a>
+### Chapitre VI : Coordination des transports<a id=42></a>
 
 ###### Article 211
 
@@ -5774,9 +5688,9 @@ _Anciens textes_:
   - Loi n°1941-03-22 art. 25
 
 
-## Titre V : Police de la navigation<a id=44></a>
+## Titre V : Police de la navigation<a id=43></a>
 
-### Chapitre Ier : Dispositions générales<a id=45></a>
+### Chapitre Ier : Dispositions générales<a id=44></a>
 
 ###### Article 213
 
@@ -5830,7 +5744,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-### Chapitre II : Dispositions spéciales au transport des matières dangereuses<a id=46></a>
+### Chapitre II : Dispositions spéciales au transport des matières dangereuses<a id=45></a>
 
 ###### Article 216
 
@@ -5852,7 +5766,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-## Titre VI : Modernisation des voies navigables<a id=47></a>
+## Titre VI : Modernisation des voies navigables<a id=46></a>
 
 ###### Article 217
 
@@ -6029,11 +5943,11 @@ _Codifié par_:
   - Décret n°56-1033 1956-10-13
 
 
-# Livre VI : Dispositions particulières<a id=48></a>
+# Livre VI : Dispositions particulières<a id=47></a>
 
-## Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=49></a>
+## Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=48></a>
 
-### Chapitre Ier : Dispositions relatives aux voies navigables<a id=50></a>
+### Chapitre Ier : Dispositions relatives aux voies navigables<a id=49></a>
 
 ###### Article 227
 
@@ -6078,7 +5992,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L2124-19 (V)
 
 
-### Chapitre II : Dispositions relatives aux bateaux de navigation intérieure<a id=51></a>
+### Chapitre II : Dispositions relatives aux bateaux de navigation intérieure<a id=50></a>
 
 ###### Article 228
 
@@ -6252,7 +6166,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Chapitre III : Dispositions concernant la navigation sur le Rhin<a id=52></a>
+### Chapitre III : Dispositions concernant la navigation sur le Rhin<a id=51></a>
 
 ###### Article 233
 
@@ -6332,9 +6246,9 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre II : Dispositions particulières au canal du Midi<a id=53></a>
+## Titre II : Dispositions particulières au canal du Midi<a id=52></a>
 
-### Chapitre Ier : Du domaine du canal<a id=54></a>
+### Chapitre Ier : Du domaine du canal<a id=53></a>
 
 ###### Article 236
 
@@ -6379,7 +6293,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L2111-11 (V)
 
 
-### Chapitre II : De l'alimentation et de la propriété des eaux<a id=55></a>
+### Chapitre II : De l'alimentation et de la propriété des eaux<a id=54></a>
 
 ###### Article 237
 
@@ -6467,7 +6381,7 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-### Chapitre III : Des contre-canaux, rigoles et fossés<a id=56></a>
+### Chapitre III : Des contre-canaux, rigoles et fossés<a id=55></a>
 
 ###### Article 241
 
@@ -6590,7 +6504,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2124-59 (V)
 
 
-### Chapitre IV : Des ouvrages d'art<a id=57></a>
+### Chapitre IV : Des ouvrages d'art<a id=56></a>
 
 ###### Article 245
 
@@ -6617,7 +6531,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L2124-25 (V)
 
 
-# DISPOSITIONS FINALES.<a id=58></a>
+# DISPOSITIONS FINALES.<a id=57></a>
 
 ###### Article 246
 
