@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-05-10
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
@@ -4920,9 +4920,9 @@ d'eux pour percevoir et employer les indemnités ou avances de l'Etat.
 L'objet et les statuts de la société seront approuvés par arrêté signé du ministre de l'équipement et du logement et du
 ministre de l'économie et des finances.
 
-Le contrôle de l'Etat sur le fonctionnement de la société est exercé par un commissaire du Gouvernement et un contrôleur
-d'Etat respectivement désignés par le ministre de l'équipement et du logement et par le ministre de l'économie et des
-finances.
+Le contrôle de l'Etat sur le fonctionnement de la société est exercé par un commissaire du Gouvernement et un membre du corps
+du contrôle général économique et financier respectivement désignés par le ministre de l'équipement et du logement et par le
+ministre de l'économie et des finances.
 
 La société peut acquérir, échanger ou vendre des bateaux ou des droits aux indemnités ou avances de l'Etat, constituer toutes
 sûretés réelles sur les bateaux, y subroger ou en ordonner mainlevée.
@@ -4930,7 +4930,7 @@ sûretés réelles sur les bateaux, y subroger ou en ordonner mainlevée.
 Ainsi qu'il est dit à l'article 1297 du code général des impôts, sont dispensés de tous impôts, droits et taxes, les actes,
 pièces ou écrits dressés en exécution des deux alinéas précédents.
 
-La société n'est pas soumise aux dispositions de l'article L. 231-3 du code de commerce ; les administrateurs ne recevront
+La société n'est pas soumise aux dispositions de l'article 49 de la loi du 24 juillet 1867 ; les administrateurs ne recevront
 aucune rémunération.
 
 Entre les prix des bateaux neufs construits ou achetés par la société en exécution du programme de reconstitution de la
@@ -4939,18 +4939,25 @@ dommages de guerre.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1297
-  - Code de commerce. - art. L231-3 (V)
-
 _Codifié par_:
 
   - Décret n°56-1033 1956-10-13
 
+_Modifié par_:
+
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+_Cite_:
+
+  - Loi n°1867-07-24 art. 49
+
 _Anciens textes_:
 
   - Loi n°1946-04-27 art. 58
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 156
