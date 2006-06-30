@@ -1,515 +1,50 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-07-01
 ## Contenu: 
-  - [Livre Ier : Du domaine public fluvial (art. 1 à 77)](#1)
-    - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 1 à 7)](#2)
-    - [Titre II : Dispositions spéciales aux cours d'eau et aux lacs domaniaux (art. 8 à 22)](#3)
-      - [Chapitre Ier : Délimitation. (art. 8 à 9)](#4)
-      - [Chapitre II : Droits de l'Etat et des riverains. (art. 10 à 14)](#5)
-      - [Chapitre III : Servitudes. (art. 15 à 22)](#6)
-    - [Titre III : Conservation et gestion du domaine public fluvial (art. 23 à 44)](#7)
-      - [Chapitre Ier : Conservation du domaine public fluvial. (art. 23 à 29)](#8)
-      - [Chapitre II : Gestion du domaine public fluvial (art. 30 à 39)](#9)
-        - [Section 1 : Dispositions d'ordre général (art. 30)](#10)
-        - [Section 2 : Dispositions particulières aux prises d'eau sur les cours d'eau domaniaux. (art. 33 à 36)](#11)
-        - [Section 3 : Dispositions diverses. (art. 37 à 39)](#12)
-      - [Chapitre III : Répression des infractions (art. 40 à 44)](#13)
-    - [Titre IV : Défense contre les inondations (art. 55 à 61)](#14)
-      - [Chapitre III : Dispositions spéciales à la Loire et à ses affluents (art. 55 à 61)](#15)
-    - [Titre V : Bacs et passages d'eau (art. 62 à 77)](#16)
-  - [Livre II : Des bateaux (art. 78 à 158)](#17)
-    - [Titre Ier : Régime juridique des bateaux de navigation intérieure (art. 78 à 137)](#18)
-      - [Chapitre Ier : Immatriculation (art. 78 à 88)](#19)
-      - [Chapitre II : Privilèges et hypothèques sur bateaux (art. 89 à 99)](#20)
-      - [Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure (art. 100 à 112)](#21)
-      - [Chapitre IV : De la purge des hypothèques (art. 113 à 117)](#22)
-      - [Chapitre V : De la saisie et de la vente forcée (art. 118 à 136)](#23)
-      - [Chapitre VI : Dispositions générales (art. 137)](#24)
-    - [Titre II : Réglementation de l'usage d'appareils à pression de vapeur ou de gaz à bord, pénalités (art. 138 à 154)](#25)
-    - [Titre III : Reconstruction et renouvellement du parc fluvial (art. 155 à 158)](#26)
-  - [Livre III : Des mariniers (art. 159 à 175)](#27)
-    - [Titre Ier : Des patrons bateliers (art. 159 à 168)](#28)
-    - [Titre II : Des compagnons bateliers (art. 169 à 172)](#29)
-    - [Titre III : Des chambres de batellerie (art. 173)](#30)
-    - [Titre IV : Dispositions générales (art. 174 à 175)](#31)
-  - [Livre IV : Voies navigables de France (art. 176 à 180)](#32)
-  - [Livre V : De l'exploitation et de la modernisation des voies navigables (art. 182 à 226)](#33)
-    - [Titre II : Voies ferrées des quais (art. 182)](#34)
-    - [Titre III : Régime du travail (art. 183 à 184)](#35)
-    - [Titre IV : Exploitation commerciale des voies navigables (art. 189 à 212)](#36)
-      - [Chapitre III : Contrats de transports (art. 189 à 198)](#37)
-      - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 209 à 210)](#38)
-      - [Chapitre VI : Coordination des transports (art. 212)](#39)
-    - [Titre V : Police de la navigation (art. 213 à 216)](#40)
-      - [Chapitre Ier : Dispositions générales (art. 213 à 215)](#41)
-      - [Chapitre II : Dispositions spéciales au transport des matières dangereuses (art. 216)](#42)
-    - [Titre VI : Modernisation des voies navigables (art. 217 à 226)](#43)
-  - [Livre VI : Dispositions particulières (art. 227 à 245)](#44)
-    - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. 227 à 235)](#45)
-      - [Chapitre Ier : Dispositions relatives aux voies navigables (art. 227)](#46)
-      - [Chapitre II : Dispositions relatives aux bateaux de navigation intérieure (art. 228 à 232)](#47)
-      - [Chapitre III : Dispositions concernant la navigation sur le Rhin (art. 233 à 235)](#48)
-    - [Titre II : Dispositions particulières au canal du Midi (art. 236 à 245)](#49)
-      - [Chapitre Ier : Du domaine du canal (art. 236)](#50)
-      - [Chapitre II : De l'alimentation et de la propriété des eaux (art. 237 à 240)](#51)
-      - [Chapitre III : Des contre-canaux, rigoles et fossés (art. 241 à 244)](#52)
-      - [Chapitre IV : Des ouvrages d'art (art. 245)](#53)
-  - [DISPOSITIONS FINALES. (art. 246)](#54)
+  - [Livre Ier : Du domaine public fluvial (art. 5 à 77)](#1)
+    - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 5)](#2)
+    - [Titre III : Conservation et gestion du domaine public fluvial (art. 30 à 38)](#3)
+      - [Chapitre II : Gestion du domaine public fluvial (art. 30 à 38)](#4)
+        - [Section 1 : Dispositions d'ordre général (art. 30)](#5)
+        - [Section 3 : Dispositions diverses. (art. 38)](#6)
+    - [Titre V : Bacs et passages d'eau (art. 62 à 77)](#7)
+  - [Livre II : Des bateaux (art. 78 à 158)](#8)
+    - [Titre Ier : Régime juridique des bateaux de navigation intérieure (art. 78 à 137)](#9)
+      - [Chapitre Ier : Immatriculation (art. 78 à 88)](#10)
+      - [Chapitre II : Privilèges et hypothèques sur bateaux (art. 89 à 99)](#11)
+      - [Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure (art. 100 à 112)](#12)
+      - [Chapitre IV : De la purge des hypothèques (art. 113 à 117)](#13)
+      - [Chapitre V : De la saisie et de la vente forcée (art. 118 à 136)](#14)
+      - [Chapitre VI : Dispositions générales (art. 137)](#15)
+    - [Titre II : Réglementation de l'usage d'appareils à pression de vapeur ou de gaz à bord, pénalités (art. 138 à 154)](#16)
+    - [Titre III : Reconstruction et renouvellement du parc fluvial (art. 155 à 158)](#17)
+  - [Livre III : Des mariniers (art. 159 à 175)](#18)
+    - [Titre Ier : Des patrons bateliers (art. 159 à 168)](#19)
+    - [Titre II : Des compagnons bateliers (art. 169 à 172)](#20)
+    - [Titre III : Des chambres de batellerie (art. 173)](#21)
+    - [Titre IV : Dispositions générales (art. 174 à 175)](#22)
+  - [Livre IV : Voies navigables de France (art. 176 à 180)](#23)
+  - [Livre V : De l'exploitation et de la modernisation des voies navigables (art. 182 à 226)](#24)
+    - [Titre II : Voies ferrées des quais (art. 182)](#25)
+    - [Titre III : Régime du travail (art. 183 à 184)](#26)
+    - [Titre IV : Exploitation commerciale des voies navigables (art. 189 à 212)](#27)
+      - [Chapitre III : Contrats de transports (art. 189 à 198)](#28)
+      - [Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions (art. 209 à 210)](#29)
+      - [Chapitre VI : Coordination des transports (art. 212)](#30)
+    - [Titre V : Police de la navigation (art. 213 à 216)](#31)
+      - [Chapitre Ier : Dispositions générales (art. 213 à 215)](#32)
+      - [Chapitre II : Dispositions spéciales au transport des matières dangereuses (art. 216)](#33)
+    - [Titre VI : Modernisation des voies navigables (art. 217 à 226)](#34)
+  - [Livre VI : Dispositions particulières (art. 228 à 244)](#35)
+    - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. 228 à 235)](#36)
+      - [Chapitre II : Dispositions relatives aux bateaux de navigation intérieure (art. 228 à 232)](#37)
+      - [Chapitre III : Dispositions concernant la navigation sur le Rhin (art. 233 à 235)](#38)
+    - [Titre II : Dispositions particulières au canal du Midi (art. 244)](#39)
+      - [Chapitre III : Des contre-canaux, rigoles et fossés (art. 244)](#40)
+  - [DISPOSITIONS FINALES. (art. 246)](#41)
 # Livre Ier : Du domaine public fluvial<a id=1></a>
 
 ## Titre Ier : Consistance, classement, déclassement du domaine public fluvial.<a id=2></a>
-
-###### Article 1
-
-Le domaine public fluvial comprend :
-
-- Les cours d'eau navigables ou flottables, depuis le point où ils commencent à être navigables ou flottables jusqu'à leur
-embouchure, ainsi que leurs bras, même non navigables ou non flottables, s'ils prennent naissance au-dessous du point où ces
-cours d'eau deviennent navigables ou flottables, les noues et boires qui tirent leurs eaux des mêmes cours d'eau, les
-dérivations ou prises d'eau artificielles même établies dans des propriétés particulières à condition qu'elles aient été
-pratiquées par l'Etat dans l'intérêt de la navigation ou du flottage ;
-
-- Les lacs navigables ou flottables ainsi que les retenues établies sur les cours d'eau du domaine public à condition que les
-terrains submergés aient été acquis par l'Etat ou par son concessionnaire à charge de retour à l'Etat en fin de concession ;
-
-- Les rivières canalisées, les canaux de navigation, étangs ou réservoirs d'alimentation, contrefossés et autres
-dépendances ;
-
-- Les ports intérieurs et leurs dépendances ;
-
-- Les ouvrages publics construits dans le lit ou sur les bords des voies navigables ou flottables pour la sûreté et la
-facilité de la navigation ou du halage ;
-
-- Les cours d'eau, lacs et canaux qui, rayés de la nomenclature des voies navigables ou flottables, ont été maintenus dans le
-domaine public ;
-
-- Les cours d'eau et lacs ainsi que leurs dérivations classés dans le domaine public selon la procédure fixée à l'article 2-1
-en vue d'assurer l'alimentation en eau des voies navigables, les besoins en eau de l'agriculture et de l'industrie,
-l'alimentation des populations ou la protection contre les inondations ;
-
-- les cours d'eau, canaux, lacs, plans d'eau et ports intérieurs appartenant au domaine public fluvial des collectivités
-territoriales et de leurs groupements ;
-
-- Les cours d'eau et les lacs appartenant au domaine public sont appelés cours d'eau et lacs domaniaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Cité par_:
-
-  - Décret n°89-391 du 15 juin 1989 - art. 2 (V)
-  - Décret n°89-405 du 20 juin 1989 - art. 2 (V)
-  - Décret n°91-796 du 20 août 1991 - art. 1 (Ab)
-  - Code de l'environnement - art. L435-1 (V)
-  - Code de l'environnement - art. L436-2 (AbD)
-  - Code du domaine public fluvial et de la navigation - art. 2-1 (Ab)
-  - Code rural - art. L235-1 (Ab)
-  - Code rural - art. L236-2 (Ab)
-  - Code rural ancien - art. 419 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°91-798 du 20 août 1991
-  - TXT_SOURCE: Décret n°91-798 du 20 août 1991 - art. 1 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiques L2111-7 (al. 1 à al. 9)
-
-
-###### Article 1-1
-
-Le domaine public fluvial des collectivités territoriales et de leurs groupements est constitué des cours d'eau, canaux, lacs
-et plans d'eau dont ils sont ou deviennent propriétaires, soit par acquisition amiable ou par voie d'expropriation classés
-dans leur domaine public en application de la procédure prévue à l'article 2-1, soit par transfert de propriété du domaine
-public fluvial de l'Etat ou d'une autre personne publique, ou qu'ils créent.
-
-Les transferts de propriété du domaine public fluvial au profit d'une collectivité territoriale ou d'un groupement de la part
-de l'Etat ou d'une autre personne publique peuvent être opérés à la demande de l'assemblée délibérante de la collectivité
-territoriale ou du groupement. Ils le sont à titre gratuit. Toutefois, les parties de cours d'eau, canaux, lacs ou plans
-d'eau inclus dans le périmètre d'une concession accordée par l'Etat au titre de l'utilisation de l'énergie hydraulique ne
-peuvent pas faire l'objet d'un transfert de propriété au profit des collectivités territoriales ou de leurs groupements.
-
-Ces transferts s'opèrent en priorité au profit de la région ou du groupement de régions territorialement compétent qui en
-fait la demande. Lorsque d'autres collectivités ou groupements de collectivités territorialement compétents souhaitent
-bénéficier d'un tel transfert, leurs demandes sont transmises pour avis à la région. Ils peuvent bénéficier de ce transfert
-si, à l'issue d'un délai de six mois à compter de la saisine pour avis, la région territorialement compétente n'a pas elle-
-même formulé la demande.
-
-Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée.
-
-La collectivité territoriale ou le groupement de collectivités territoriales bénéficiaire du transfert succède dans
-l'ensemble des droits et obligations à l'égard des tiers à la personne publique gestionnaire de ce domaine avant la date du
-transfert.
-
-Pour l'application du présent article, le représentant de l'Etat dans le département communique aux collectivités
-territoriales ou groupements intéressés qui en font la demande toutes les informations dont il dispose sur le domaine public
-fluvial susceptible de leur être transféré dans un délai de six mois. Il assortit ces informations d'un diagnostic portant
-sur la faisabilité et le coût de l'enlèvement des sédiments, ainsi que d'une analyse sur leur nature.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Cité par_:
-
-  - Décret n°91-796 du 20 août 1991 - art. 1 (Ab)
-  - Décret n°2005-992 du 16 août 2005 - art. 1 (Ab)
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 117 (V)
-  - Code du domaine public fluvial et de la navigation - art. 4 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiques L3113-1 (al. 2 à 6)
-
-_Cite_:
-
-  - Code du domaine public fluvial et de la navigation - art. 2-1 (M)
-
-
-###### Article 1-1-1
-
-Les cours d'eau et canaux ayant fait l'objet d'un transfert de compétence au profit de régions en application de la loi n°
-83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les
-communes, les départements, les régions et l'Etat avant la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004
-relative aux libertés et responsabilités locales leur sont transférés de plein droit et en pleine propriété à leur demande
-ou, au plus tard, à l'expiration d'un délai de trois ans à compter de l'entrée en vigueur de la loi n° 2004-809 du 13 août
-2004 précitée, sauf si celles-ci s'y sont opposées par délibération prise avec un préavis de six mois avant l'échéance de ce
-délai. Pendant cette période, les régions exercent les mêmes compétences que celles confiées à l'article 1er-2 du présent
-code.
-
-Les régions ayant obtenu le transfert des cours d'eau et canaux peuvent déléguer, par convention, tout ou partie de leurs
-compétences à des collectivités territoriales qui en feraient la demande.
-
-Ces transferts sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucune indemnité, droit, taxe, salaire ou
-honoraires.
-
-Toutefois, lorsque avant le 1er janvier 2005, une partie du domaine public fluvial a été concédée à une collectivité
-territoriale, cette dernière est prioritaire pour bénéficier du transfert de propriété.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Cite_:
-
-  - Loi n°83-8 1983-01-07
-  - Loi n°83-663 1983-07-22
-  - Loi n°2004-809 2004-08-13
-
-_Cité par_:
-
-  - Décret n°91-796 du 20 août 1991 - art. 1 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 72 () JORF 31 décembre 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 1-2
-
-Une expérimentation peut être engagée pour une durée maximale de six ans pendant laquelle la collectivité ou le groupement de
-collectivités est compétent pour aménager et exploiter le domaine dont la proprieté ne lui est pas transférée.
-
-Le transfert de propriété deviendra effectif à l'issue de cette période, sauf si la collectivité ou le groupement de
-collectivités a renoncé au transfert au moins six mois avant la clôture de l'expérimentation. Le transfert s'opère dans des
-conditions fixées par décret en Conseil d'Etat.
-
-L'Etat et la collectivité ou le groupement de collectivités ayant opté pour l'expérimentation déterminent conjointement les
-cours d'eau, canaux, lacs et plans d'eau concernés par le transfert. Ils signent une convention définissant les conditions et
-la durée de l'expérimentation. Durant cette période d'expérimentation, la collectivité territoriale ou le groupement de
-collectivités territoriales peut faire appel à l'établissement public à caractère industriel et commercial Voies navigables
-de France selon des modalités qui seront définies par une convention tripartite entre l'Etat, les collectivités concernées et
-Voies navigables de France.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Créé par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Cité par_:
-
-  - Loi n°2004-809 du 13 août 2004 - art. 117 (V)
-  - Décret n°2005-992 du 16 août 2005 - art. 14 (Ab)
-  - Code général de la propriété des personnes publ... - art. R3113-6 (VT)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3113-2 (V)
-
-
-###### Article 1-3
-
-Un décret en Conseil d'Etat précise les conditions du transfert dans le domaine public d'une collectivité ou d'un groupement
-de collectivités et les modalités selon lesquelles les différentes personnes publiques ayant bénéficié du transfert de
-propriété et de compétences assurent la cohérence de la gestion du domaine public ayant fait l'objet du transfert. Ce décret
-fixe également la liste des cours d'eau et canaux d'intérêt national notamment utiles au transport de marchandises qui ne
-peuvent faire l'objet d'un transfert.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Créé par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3113-3 (V)
-
-
-###### Article 1-4
-
-La collectivité territoriale ou le groupement est chargé de l'aménagement et de l'exploitation de son domaine. L'autorité
-exécutive de la collectivité territoriale ou du groupement exerce les pouvoirs de police y afférents, sous réserve des
-attributions dévolues aux maires et des compétences de l'Etat en matière de police de l'eau, de police de la navigation et
-d'utilisation de l'énergie hydraulique.
-
-Nonobstant toutes dispositions contraires, l'Etat reste compétent pour instruire et délivrer les autorisations de prises
-d'eau, pratiquées sur le domaine public fluvial, des installations de production d'électricité ne relevant pas de la loi du
-16 octobre 1919 relative à l'utilisation de l'énergie hydraulique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-6 (V)
-
-_Cite_:
-
-  - Loi n°1919-10-16
-
-_Modifié par_:
-
-  - Loi n°2005-781 du 13 juillet 2005 - art. 107 () JORF 14 juillet 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 1-5
-
-Les collectivités territoriales et leurs groupements sont compétents pour créer, aménager et exploiter les ports intérieurs
-dont ils sont ou deviennent propriétaires selon les dispositions prévues aux articles 1er-1 à 1er-3, à l'exception des ports
-d'intérêt national inscrits sur une liste fixée par décret en Conseil d'Etat.
-
-Le classement d'un port intérieur dans le domaine public et son déclassement du domaine public s'opèrent conformément aux
-dispositions d'une part de l'article 2-1, d'autre part des premier, troisième et dernier alinéas de l'article 4.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Créé par_:
-
-  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiques L2111-12 (al. 2)
-
-_Cite_:
-
-  - Code du domaine public fluvial et de la navigation - art. 2-1 (M)
-  - Code du domaine public fluvial et de la navigation - art. 4 (M)
-
-
-###### Article 2
-
-Les parties navigables ou flottables d'un fleuve, d'une rivière ou d'un lac sont déterminées par des décrets pris après
-enquête de commodo et incommodo, tous les droits des tiers réservés, sur le rapport du ministre des travaux publics et des
-transports, après avis du ministre chargé de la police ou de la gestion de ce cours d'eau ou de ce lac et du ministre des
-finances et des affaires économiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 3 alinéa 1
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 29 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 2-1
-
-Le classement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac ou plan d'eau dans le domaine public fluvial de
-l'Etat pour l'un des motifs énumérés à l'article 1er est prononcé, après enquête publique, par arrêté du préfet
-territorialement compétent, tous les droits des riverains du cours d'eau ou des propriétaires du lac et des tiers demeurant
-réservés. Le classement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac ou plan d'eau dans le domaine public
-fluvial d'une collectivité territoriale ou d'un groupement est prononcé après enquête publique par arrêté du préfet
-coordonnateur de bassin, après avis des assemblées délibérantes des collectivités territoriales sur le territoire desquelles
-se situe le domaine à classer, ainsi que du comité de bassin compétent, tous les droits des riverains du cours d'eau ou des
-propriétaires du lac et des tiers demeurant réservés.
-
-Les indemnités pouvant être dues en raison des dommages entraînés par ce classement sont fixées comme en matière
-d'expropriation pour cause d'utilité publique, compensation faite des avantages que les intéressés peuvent en retirer.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Cité par_:
-
-  - Décret n°2005-992 du 16 août 2005 - art. 2 (Ab)
-  - Code du domaine public fluvial et de la navigation - art. 1 (Ab)
-  - Code du domaine public fluvial et de la navigation - art. 1-1 (Ab)
-  - Code du domaine public fluvial et de la navigation - art. 1-5 (Ab)
-  - Code du domaine public fluvial et de la navigation - art. 15 (Ab)
-  - Code général de la propriété des personnes publ... - art. R2111-17 (VT)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2111-12 (V)
-
-
-###### Article 3
-
-Les voies d'eau navigables ou flottables, naturelles ou artificielles, faisant partie du domaine public de l'Etat, peuvent
-être rayées de la nomenclature des voies navigables ou flottables et maintenues dans le domaine public par décret en conseil
-d'Etat, après avis du ministre des finances et des affaires économiques, dans les conditions fixées par un décret en conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Anciens textes_:
-
-  - Loi n°1870-07-27 art. 1
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 29 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 4
-
-1. Le déclassement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac ou plan d'eau faisant partie du domaine
-public fluvial de l'Etat est prononcé, après enquête publique et consultation des collectivités territoriales intéressées,
-par arrêté du préfet territorialement compétent, tous les droits des riverains et des tiers demeurant réservés.
-
-Le déclassement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac ou plan d'eau faisant partie du domaine
-public fluvial de l'Etat emporte sa radiation de la nomenclature des voies navigables ou flottables de l'Etat.
-
-Dans le cas d'un transfert de propriété du domaine public fluvial de l'Etat au profit d'une collectivité territoriale ou d'un
-groupement, tel que prévu à l'article 1-1, l'acte opérant le transfert emporte déclassement du domaine public fluvial de
-l'Etat.
-
-2. Le déclassement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac ou plan d'eau faisant partie du domaine
-public fluvial d'une collectivité territoriale ou d'un groupement est prononcé après enquête publique par la personne
-responsable de l'autorité exécutive de la collectivité territoriale ou du groupement, après consultation du comité de bassin
-et des assemblées délibérantes des autres collectivités territoriales sur le territoire desquelles se situe le domaine à
-déclasser, tous les droits des riverains et des tiers demeurant réservés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Cité par_:
-
-  - Décret n°2005-992 du 16 août 2005 - art. 1 (Ab)
-  - Décret n°2005-992 du 16 août 2005 - art. 6 (Ab)
-  - Code du domaine public fluvial et de la navigation - art. 1-5 (Ab)
-  - Code général de la propriété des personnes publ... - art. R2142-2 (VT)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiques L2142-1 (al. 1 et 4)
-
-_Cite_:
-
-  - Code du domaine public fluvial et de la navigation - art. 1-1 (M)
-
 
 ###### Article 5
 
@@ -572,848 +107,11 @@ _Cite_:
   - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
-###### Article 6
+## Titre III : Conservation et gestion du domaine public fluvial<a id=3></a>
 
-Les décrets de radiation sont pris après consultation :
+### Chapitre II : Gestion du domaine public fluvial<a id=4></a>
 
-a) De Voies navigables de France et des services civils, départements et chambres de commerce intéressés ;
-
-b) Des organisations professionnelles de la batellerie.
-
-Les avis non fournis dans le délai d'un mois, au titre des consultations prévues ci-dessus, sont réputés favorables.
-
-Dans l'hypothèse où la voie considérée a cessé d'être effectivement fréquentée par la navigation ou utilisée pour le flottage
-depuis plus de deux ans, les consultations ci-dessus sont facultatives.
-
-Sur les voies d'eau qui feront l'objet d'un décret de radiation, aucune dépense autre que celles nécessaires pour rétablir,
-en cas de nécessité, la situation naturelle ne sera faite par l'Etat au titre des ouvrages intéressant antérieurement la
-navigation. Les travaux d'entretien, de réparation et de restauration des ouvrages intéressant les usiniers ou autres
-bénéficiaires ne donneront lieu à aucune contribution financière de l'Etat.
-
-La même règle est applicable aux ouvrages situés sur des voies d'eau ayant fait l'objet antérieurement d'une mesure de
-radiation avant le 18 juin 1955.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiques L2124-12 (al. 6 et 7)
-
-
-###### Article 7
-
-Les voies déclassées sont placées pour les parties naturelles du lit, dans la catégorie des cours d'eau et lacs non domaniaux
-et, pour les autres parties, dans le domaine privé de l'Etat, de la collectivité territoriale ou du groupement, selon le cas.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2142-2 (V)
-
-
-## Titre II : Dispositions spéciales aux cours d'eau et aux lacs domaniaux<a id=3></a>
-
-### Chapitre Ier : Délimitation.<a id=4></a>
-
-###### Article 8
-
-Les limites des cours d'eau domaniaux sont déterminées par la hauteur des eaux coulant à pleins bords avant de déborder.
-
-Les arrêtés de délimitation pourront être l'objet d'un recours contentieux. Ils seront toujours pris sous la réserve des
-droits de propriété.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 30, art. 32 JORF 18 décembre 1964
-  - Décret n°70-1115 du 3 décembre 1970 - art. 1 (Ab) JORF 4 décembre 1970
-
-_Cité par_:
-
-  - Décret du 25 mars 1994 - art. 1 (V)
-  - Décret n°2005-992 du 16 août 2005 - art. 7 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2111-9 (V)
-
-_Anciens textes_:
-
-  - Décret-loi 1926-10-01 art. 4
-  - Loi n°1898-04-08 art. 36
-
-
-###### Article 9
-
-A l'embouchure des fleuves ou rivières, la limite de la mer est déterminée conformément aux dispositions du décret n°
-2004-309 du 29 mars 2004.
-
-**Nota:**
-
-Nota - Décret 2004-309 2004-03-29 art. 13 : Les dispositions du présent décret entreront en vigueur le premier jour du
-troisième mois suivant le mois de sa publication.
-
-Elles ne sont pas applicables aux délimitations pour lesquelles la décision prescrivant l'enquête publique a été publiée
-avant la date d'entrée en vigueur du présent décret.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2004-309 2004-03-26
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Décret n°2004-309 du 29 mars 2004 - art. 12 () JORF 30 mars 2004 en vigueur le 1er juin 2004 rectificatif JORF 15 mai 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-### Chapitre II : Droits de l'Etat et des riverains.<a id=5></a>
-
-###### Article 10
-
-La propriété des alluvions, relais, atterrissements, îles et îlots qui se forment naturellement dans les fleuves et rivières
-domaniaux est réglée par les dispositions des articles 556, 557, 560 et 562 du code civil.
-
-Lorsque l'application des dispositions de l'article 560 du code civil concerne un cours d'eau domanial appartenant à une
-collectivité territoriale ou un groupement, ce dernier est substitué à l'Etat.
-
-En ce qui concerne les lacs domaniaux, les dispositions de l'article 558 du même code sont applicables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code civil - art. 556 (M)
-  - Code civil - art. 557 (V)
-  - Code civil - art. 560 (M)
-  - Code civil - art. 562 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 39 (Ab)
-
-
-###### Article 11
-
-Si un cours d'eau domanial forme un nouveau cours en abandonnant son ancien lit, il est procédé conformément aux dispositions
-de l'article 563 du code civil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 30, art. 32 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-16 (V)
-
-_Cite_:
-
-  - Code civil - art. 563 (M)
-
-
-###### Article 12
-
-Si un cours d'eau domanial enlève par une force subite une partie considérable et reconnaissable d'un champ riverain, et la
-porte vers un champ inférieur ou sur la rive opposée, il est procédé conformément aux dispositions de l'article 559 du code
-civil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-15 (V)
-
-_Cite_:
-
-  - Code civil - art. 559 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 7
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 7 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 30, art. 32 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 13
-
-Lorsque, à la suite de travaux légalement exécutés, des portions de l'ancien lit cesseront de faire partie du domaine public,
-les propriétaires riverains pourront exercer le droit de préemption conformément aux dispositions de l'article 563 du code
-civil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Créé par_:
-
-  - Décret n°56-1033 1956-10-13 art. 30 JORF 16 octobre 1956
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 33
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 38 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 30 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-16 (V)
-
-_Cite_:
-
-  - Code civil - art. 563 (M)
-
-
-###### Article 14
-
-Le curage des cours d'eau domaniaux et de leurs dépendances faisant partie du domaine public est à la charge du propriétaire
-du domaine public fluvial concerné, néanmoins, un décret en Conseil d'Etat peut, les parties intéressées entendues, appeler à
-contribuer au curage les communes, les usiniers, les concessionnaires des prises d'eau et les propriétaires voisins, qui, par
-l'usage exceptionnel et spécial qu'ils font des eaux, rendent les frais de curage plus considérables.
-
-Toutefois, le montant de la contribution annuelle à exiger des communes, des usiniers, des concessionnaires de prise d'eau ou
-des propriétaires voisins pour curage des voies navigables ou flottables et de leur dépendances faisant partie du domaine
-public, sera fixé par arrêté préfectoral chaque fois qu'un accord se sera établi à ce sujet entre l'administration et les
-intéressés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-11 (M)
-
-
-### Chapitre III : Servitudes.<a id=6></a>
-
-###### Article 15
-
-Les propriétaires riverains des fleuves et rivières inscrits sur la nomenclature des voies navigables ou flottables sont
-tenus, dans l'intérêt du service de la navigation et partout où il existe un chemin de halage, de laisser le long des bords
-desdits fleuves et rivières, ainsi que sur les îles où il en est besoin, un espace de 7,80 mètres de largeur.
-
-Ils ne peuvent planter d'arbres ni se clore par haies ou autrement qu'à une distance de 9,75 mètres du côté où les bateaux se
-tirent et de 3,25 mètres sur le bord où il n'existe pas de chemin de halage.
-
-Les propriétés riveraines d'un cours d'eau domanial rayé de la nomenclature des voies navigables ou flottables ou classé dans
-le domaine public par application de l'article 2-1 ainsi que les propriétés riveraines d'un lac domanial sont grevées sur
-chaque rive de cette dernière servitude de 3,25 mètres , dite servitude de "marchepied". Lorsqu'un cours d'eau est déjà grevé
-de la servitude prévue par le décret n° 59-96 du 7 janvier 1959, cette dernière servitude est maintenue.
-
-Tout contrevenant sera passible d'un amende de 274 euros et devra, en outre, remettre les lieux en état ou, à défaut, payer
-les frais de la remise en état d'office par l'administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Cite_:
-
-  - Décret n°59-96 1959-01-07
-  - Code du domaine public fluvial et de la navigation - art. 2-1 (M)
-
-_Cité par_:
-
-  - Décret n°89-391 du 15 juin 1989 - art. 7 (V)
-  - Code de l'urbanisme - art. R*126-1, Annexe (V)
-  - Code du domaine public fluvial et de la navigation - art. 19 (Ab)
-  - Code rural ancien - art. 424 (M)
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiques L2131-2 (al. 1 à 3)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 46 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article 16
-
-Lorsque l'intérêt du service de la navigation le permettra, les distances fixées par les deux premiers alinéas de l'article
-précédent, pour la servitude de halage, seront réduites sur décision de l'autorité gestionnaire.
-
-Lorsque l'exercice de la pêche et les nécessités d'entretien du cours d'eau le permettront, la distance fixée par le
-troisième alinéa de l'article précédent pour la servitude de marchepied pourra être exceptionnellement réduite sur décision
-de l'autorité gestionnaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Cité par_:
-
-  - Décret n°89-391 du 15 juin 1989 - art. 7 (V)
-  - Décret n°89-405 du 20 juin 1989 - art. 7 (V)
-  - Code de l'urbanisme - art. R*126-1, Annexe (V)
-
-_Modifié par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2131-3 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 47 (Ab)
-
-
-###### Article 18
-
-Les propriétaires riverains qui veulent faire des constructions, plantations ou clôtures le long des cours d'eau domaniaux
-peuvent, au préalable, demander à l'administration de reconnaître la limite de la servitude.
-
-Si, dans les trois mois à compter de la demande, l'administration n'a pas fixé la limite, les constructions, plantations ou
-clôtures faites par les riverains ne peuvent plus être supprimées que moyennant indemnité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 48
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 48 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 30, art. 32 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2131-4 (V)
-
-
-###### Article 19
-
-Lorsque le classement d'un lac, d'une rivière ou portion de rivière dans le domaine public fluvial, ou son inscription sur la
-nomenclature des voies navigables ou flottables assujettit les propriétaires riverains aux servitudes établies par l'article
-15, il leur est dû une indemnité proportionnée au dommage qu'ils éprouvent en tenant compte des avantages que peut leur
-procurer ce classement ou cette inscription.
-
-Les propriétaires riverains auront également droit à une indemnité lorsque, pour les besoins de la navigation, la servitude
-de halage sera établie sur une rive où cette servitude n'existait pas.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2131-5 (V)
-
-_Cite_:
-
-  - Code du domaine public fluvial et de la navigation - art. 15 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 49
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 49 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 30, art. 31 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 20
-
-Les contestations relatives à l'indemnité due aux propriétaires en raison de l'établissement des servitudes de halage et de
-marchepied sont jugées par la juridiction compétente en matière d'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 30, art. 31 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2331-2 (V)
-
-_Cité par_:
-
-  - Code du domaine public fluvial et de la navigation - art. 227 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 50
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 50 (Ab)
-
-
-###### Article 21
-
-Dans le cas où l'administration juge que la servitude de halage est insuffisante et veut établir, le long du fleuve ou de la
-rivière, un chemin dans des conditions constantes de viabilité, elle doit, à défaut de consentement exprès des riverains,
-acquérir le terrain nécessaire à l'établissement du chemin en se conformant aux lois sur l'expropriation pour cause d'utilité
-publique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 30 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2131-6 (V)
-
-_Cité par_:
-
-  - Code du domaine public fluvial et de la navigation - art. 227 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 51
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 51 (Ab)
-
-
-###### Article 22
-
-Les conditions d'utilisation du chemin de halage ou du marchepied par des fermiers de la pêche et les porteurs de licences
-sont fixées par l'article 424 du code rural.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 424
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 30 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-## Titre III : Conservation et gestion du domaine public fluvial<a id=7></a>
-
-### Chapitre Ier : Conservation du domaine public fluvial.<a id=8></a>
-
-###### Article 23
-
-Le domaine public fluvial est inaliénable sous réserve des droits et concessions régulièrement accordés avant l'édit de
-Moulins de février 1566 et des ventes légalement consommées de biens nationaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3111-2 (V)
-
-
-###### Article 24
-
-Il est interdit :
-
-1° De dégrader, détruire ou enlever les ouvrages construits pour la sûreté et la facilité de la navigation et du halage sur
-les rivières et canaux navigables ou flottables ou le long de ces voies ;
-
-2° De faire aucun dommage aux ouvrages provisoires établis en vue de la construction ou de l'entretien des ouvrages visés à
-l'alinéa ci-dessus ;
-
-3° De naviguer sous les arches des ponts qui seraient fermés à la navigation du fait de tels travaux.
-
-Le contrevenant sera passible d'une amende de 150 à 12000 euros. Il devra supporter les frais de réparations. Il devra, en
-outre dédommager les entrepreneurs chargés des travaux à dire d'experts nommés par les parties ou d'office.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2132-8 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article 25
-
-Aucun travail ne peut être exécuté, aucune prise d'eau ne peut être pratiquée sur le domaine public fluvial sans autorisation
-de l'administration.
-
-Le défaut d'autorisation sera puni d'une amende de 150 à 12000 euros.
-
-En cas de condamnation pour infraction aux dispositions du présent article, le tribunal fixe, s'il y a lieu, les mesures à
-prendre pour faire cesser l'infraction ou en éviter la récidive et le délai dans lequel ces mesures devront être exécutées,
-ainsi qu'une astreinte dans les formes définies à l'article 463 du code rural.
-
-Les décisions d'autorisation ou des arrêtés complémentaires du représentant de l'Etat fixent les dispositions nécessaires
-pour assurer la sécurité des personnes et la protection de l'environnement.
-
-Indépendamment des poursuites pénales qui peuvent être exercées lorsqu'un officier de police judiciaire ou un agent public
-habilité à cet effet a constaté l'inobservation des conditions imposées à l'exploitant d'un des ouvrages soumis à
-autorisation, en application du présent article et nonobstant les dispositions de l'article 26 du présent code, le
-représentant de l'Etat peut mettre l'exploitant en demeure de satisfaire à ces conditions dans un délai déterminé.
-
-Si, à l'expiration de ce délai, l'exploitant n'a pas obtempéré à cette injonction, le représentant de l'Etat peut :
-
-- soit faire procéder d'office, aux frais de l'exploitant, à l'exécution des mesures prescrites ;
-
-- soit obliger l'exploitant à consigner entre les mains d'un comptable public une somme répondant du montant des travaux ;
-cette somme lui sera restituée au fur et à mesure de l'exécution des travaux ;
-
-- soit décider la mise hors service temporaire de l'ouvrage.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Cité par_:
-
-  - Loi n°92-3 du 3 janvier 1992 - art. 31 (Ab)
-  - Code de l'environnement - art. L211-7 (M)
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiques L2124-8 (al. 1 et 4)
-
-_Cite_:
-
-  - Code du domaine public fluvial et de la navigation - art. 26 (Ab)
-  - Code rural 463
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 40 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article 26
-
-Les prises d'eau et autres établissements créés sur le domaine public fluvial, même avec autorisation, peuvent toujours être
-modifiés ou supprimés. Une indemnité n'est due que lorsque les prises d'eau ou établissements dont la modification ou la
-suppression est ordonnée, ont une existence légale.
-
-Toutefois, aucune suppression ou modification ne pourra être prononcée que suivant les formes et avec les garanties établies
-pour la délivrance des autorisations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-9 (V)
-
-_Cité par_:
-
-  - Code du domaine public fluvial et de la navigation - art. 25 (Ab)
-  - Code rural ancien - art. 106 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 45
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 45 (Ab)
-
-
-###### Article 27
-
-Il est interdit, de construire ou de laisser subsister sur les rivières et canaux domaniaux ou le long de ces voies, des
-ouvrages quelconques susceptibles de nuire à l'écoulement des eaux ou à la navigation. Le contrevenant sera passible d'une
-amende de 150 à 12000 euros et devra, en outre, démolir les ouvrages établis ou, à défaut, payer les frais de la démolition
-d'office par l'administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2132-6 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article 28
-
-Il est interdit :
-
-1. De jeter dans le lit des rivières et canaux domaniaux ou sur leurs bords des matières insalubres ou des objets
-quelconques, ni rien qui puisse embarrasser le lit des cours d'eau ou canaux ou y provoquer des atterrissements ;
-
-2. D'y planter des pieux ;
-
-3. D'y mettre rouir des chanvres ;
-
-4. De modifier le cours desdits rivières ou canaux par tranchées ou par quelque moyen que ce soit ;
-
-5. D'y extraire des matériaux ;
-
-6. D'extraire à moins de 11,70 m de la limite desdites rivières ou des bords desdits canaux, des terres, sables et autres
-matériaux.
-
-Le contrevenant sera passible d'une amende 150 à 12000 euros et devra, en outre, remettre les lieux en état ou, à défaut,
-payer les frais de la remise en état d'office par l'administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2132-7 (V)
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R*126-1, Annexe (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article 29
-
-Les riverains, les mariniers et autres personnes sont tenus de faire enlever les pierres, terres, bois, pieux, débris de
-bateaux et autres empêchements qui, de leur fait ou du fait de personnes ou de choses à leur charge, se trouveraient sur le
-domaine public fluvial. Le contrevenant sera passible d'une amende de 150 à 12000 euros, de la confiscation de l'objet
-constituant l'obstacle et du remboursement des frais d'enlèvement d'office par l'administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2132-9 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-### Chapitre II : Gestion du domaine public fluvial<a id=9></a>
-
-#### Section 1 : Dispositions d'ordre général<a id=10></a>
+#### Section 1 : Dispositions d'ordre général<a id=5></a>
 
 ###### Article 30
 
@@ -1469,184 +167,7 @@ _Nouveaux textes_:
   - Code des transports - art. L1614-1 (VD)
 
 
-#### Section 2 : Dispositions particulières aux prises d'eau sur les cours d'eau domaniaux.<a id=11></a>
-
-###### Article 33
-
-L'autorité compétente pour statuer, après enquête sur une installation, un ouvrage, une activité ou des travaux soumis à
-autorisation en application de l'article 10 de la loi n° 92-3 du 3 janvier 1992 susvisée, est le préfet du département sur le
-territoire duquel l'installation, l'ouvrage, l'activité ou les travaux doivent être réalisés.
-
-Lorsque l'installation, l'ouvrage, l'activité ou les travaux doivent être réalisés sur le territoire de deux ou plusieurs
-départements, il est statué par un arrêté conjoint des préfets des départements intéressés.
-
-Toutefois, en cas de désaccord du maire de l'une des communes sur le territoire desquelles l'enquête a été ouverte, et si
-l'objet de l'enquête fait partie d'un projet d'infrastructure du domaine public fluvial d'un coût supérieur à 1829388,21
-euros, il est statué par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Cité par_:
-
-  - Décret n°79-1108 du 20 décembre 1979 - art. 16 (M)
-  - Décret n°79-1108 du 20 décembre 1979 - art. 17 (Ab)
-
-_Cite_:
-
-  - Loi n°92-3 1992-01-03 art. 10
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 41 (Ab)
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 42 (Ab)
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 43 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article 34
-
-Toute demande de prise d'un volume supérieur à deux mètres cubes par seconde sur un cours d'eau du domaine public fluvial
-comportant le transport de tout ou partie de ce volume hors des limites des départements riverains de ce cours d'eau, ne peut
-être autorisée qu'après avis soit des conseils généraux des départements où la prise d'eau est faite ou situés immédiatement
-à l'aval, soit de leur commission départementale à qui délégation spéciale pourra être conférée à cet effet.
-
-Ces avis devront être donnés dans le délai maximum de six mois à compter du jour de la consultation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Anciens textes_:
-
-  - Loi n°1908-12-26 art. 67
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 32 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 35
-
-Les titulaires d'autorisations de prise d'eau sur les ports intérieurs, les cours d'eau domaniaux et sur les canaux de
-navigation sont assujettis à payer à l'Etat une redevance calculée d'après les bases fixées par un décret en Conseil d'Etat.
-
-Sur les cours d'eau, sections de cours d'eau, canaux, lacs et plans d'eau et ports intérieurs appartenant ou confiés en
-gestion à une collectivité territoriale ou un groupement, la redevance est perçue à son profit. Elle est établie par
-délibération de l'assemblée délibérante de la collectivité territoriale ou du groupement, dans les limites fixés par décret
-en Conseil d'Etat.
-
-Les dispositions du présent article ne sont pas applicables aux cours d'eau domaniaux et aux canaux confiés à l'établissement
-public créé par l'article 67 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de
-l'exercice 1912.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987
-  - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987 - art. 2 (V)
-
-_Cité par_:
-
-  - Décret n°2005-992 du 16 août 2005 - art. 16 (Ab)
-  - Code général de la propriété des personnes publ... - art. R2125-13 (VT)
-
-_Cite_:
-
-  - Loi n°1912-02-27 art. 67
-
-_Modifié par_:
-
-  - Loi n°2006-10 du 5 janvier 2006 - art. 29 () JORF 6 janvier 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2125-7 (V)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 44 (Ab)
-
-
-###### Article 36
-
-Les ouvrages destinés à tirer partie de l'énergie des eaux du domaine public fluvial sont soumis à la législation relative à
-l'utilisation de l'énergie hydraulique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Anciens textes_:
-
-  - Loi n°1919-10-16 art. 1
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 32 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-#### Section 3 : Dispositions diverses.<a id=12></a>
-
-###### Article 37
-
-L'Etat, les collectivités territoriales et leurs groupements concéderont, aux conditions qu'ils auront fixées, le droit
-d'endigage, les accrues, atterrissements et alluvions des fleuves ou rivières faisant partie de leur domaine public fluvial.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-15 (V)
-
+#### Section 3 : Dispositions diverses.<a id=6></a>
 
 ###### Article 38
 
@@ -1694,367 +215,7 @@ _Anciens textes_:
   - Loi n°1884-04-05 art. 98
 
 
-###### Article 39
-
-Lorsqu'il y aura lieu de pourvoir aux dépenses d'entretien ou de réparation des ouvrages de navigation, de levées, barrages,
-pertuis, écluses, auxquels les propriétaires de moulins ou d'usines sont intéressés ou dont ils usent en commun avec le
-service de la navigation ou au curage des canaux qui sont en même temps de navigation et de dessèchement, ces dépenses seront
-réparties entre le propriétaire du domaine public fluvial et les propriétaires par un décret en Conseil d'Etat.
-
-Toutefois, le montant de la participation annuelle visée à l'alinéa précédent, sera fixé par décision de l'autorité
-compétente chaque fois qu'un accord se sera établi à ce sujet entre l'administration et les intéressés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-11 (M)
-
-
-### Chapitre III : Répression des infractions<a id=13></a>
-
-###### Article 40
-
-Les contraventions en matière de grande voirie telles qu'anticipations, dépôts de fumier ou d'autres objets, et toutes
-espèces de détériorations commises sur le domaine public fluvial, les chemins de halage et francs-bords, fossés et ouvrages
-d'art, sur les arbres qui les bordent, sur les matériaux destinés à leur entretien, sont constatées, réprimées et poursuivies
-par voie administrative.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Cité par_:
-
-  - Décret n°2001-839 du 14 septembre 2001 - art. ANNEXE (V)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2132-10 (V)
-
-_Anciens textes_:
-
-  - Loi du 29 floréal an X art. 1
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 41
-
-Les contraventions sont constatées concurremment par les fonctionnaires des services de l'Etat, des collectivités
-territoriales et de leurs groupements, les conducteurs de chantier ou agents de travaux assermentés à cet effet ou par les
-maires adjoints et les gardes champêtres.
-
-Les fonctionnaires publics ci-dessus désignés qui n'ont pas prêté serment en justice le prêteront devant le préfet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2132-23 (M)
-
-
-###### Article 43
-
-Le tribunal administratif statue sur les contraventions de grande voirie concernant la conservation des voies navigables et
-sur les litiges relatifs aux contrats passés par l'Etat, les départements, les communes, les établissements publics ou leurs
-concessionnaires, comportant occupation du domaine public fluvial quelle que soit leur forme ou dénomination, et, d'une
-manière générale, sur les difficultés qui peuvent s'élever en matière de grande voirie.
-
-Ses décisions seront exécutoires et comportent hypothèque, nonobstant tout recours.
-
-Il statue sans délai, tant sur les oppositions qui auraient été formées par les délinquants que sur les amendes encourues par
-eux, nonobstant la réparation du dommage.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2132-24 (V)
-
-_Anciens textes_:
-
-  - Décret n°1811-12-16 art. 144
-  - Décret-loi 1938-06-17 art. 1
-  - Loi n°28 pluviose an VIII art. 4
-  - Loi n°29 floréal an X
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
-
-
-###### Article 44
-
-L'administration des ponts et chaussées, représentée par le ministre ou les agents par lui désignés, a le droit de transiger
-dans les conditions prévues à l'article 105 du code forestier, tant qu'un jugement définitif n'est pas intervenu.
-
-Après le jugement définitif, la transaction ne peut porter que sur les peines et réparations pécuniaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1870-09-07
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Cité par_:
-
-  - Décret n°2001-839 du 14 septembre 2001 - art. ANNEXE (V)
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2132-25 (V)
-
-_Cite_:
-
-  - Code forestier 105
-
-
-## Titre IV : Défense contre les inondations<a id=14></a>
-
-### Chapitre III : Dispositions spéciales à la Loire et à ses affluents<a id=15></a>
-
-###### Article 55
-
-Sur la Loire, entre Roanne et le pont d'Oudon, et sur ses affluents, l'Allier, depuis son confluent avec la Dore, le Cher,
-depuis Saint-Amand, la Vienne, depuis son confluent avec la Creuse, la Mayenne et le Maine, depuis Château-Gontier et jusqu'à
-leurs confluents avec la Loire, sont appliquées les dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-16 (V)
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R*126-1, Annexe (V)
-
-
-###### Article 56
-
-Les maires des communes voisines de ces rivières sont tenus de prêter assistance aux agents des ponts et chaussées lorsqu'ils
-en seront requis par les ingénieurs des ponts et chaussées pour la défense des digues et levées et pour la protection des
-biens et des populations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 57
-
-Pour l'ensemble des cours d'eau énumérés, il ne pourra être fait aucune plantation nouvelle ni aucune accrue tolérée sur les
-terrains compris entre les cours d'eau et les digues et levées sur les îles, sans une autorisation préfectorale prise sur
-l'avis des ingénieurs de la navigation à peine d'une amende de 12000 euros. Les plantations faites sans autorisation
-pourront, en outre, être arrachées aux frais des contrevenants à la suite d'un arrêté préfectoral pris sur l'avis des
-ingénieurs de la navigation, sans qu'il y ait besoin d'une mise en demeure préalable.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-17 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article 58
-
-Toute plantation ancienne ou accrue sur les digues ou levées, les terrains compris entre les cours d'eau et les digues ou
-levées ou sur les îles, qui serait reconnue faire obstacle à l'écoulement des eaux ou resteindre d'une façon nuisible le
-champ d'inondation, devra être supprimée en tout ou en partie dans le délai de deux mois sur l'ordre des ingénieurs, à peine
-d'une amende de 12000 euros. En cas d'inexécution dans le délai prescrit, l'enlèvement en sera fait aux frais du contrevenant
-sans qu'il soit besoin d'une mise en demeure préalable.
-
-Il ne sera dû d'indemnité que si la plantation avait fait antérieurement l'objet d'une autorisation régulière et compte tenu
-des conditions fixées par cette autorisation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-17 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article 59
-
-Il est interdit d'élever aucune construction sur les terrains compris entre les digues et la rivière ni sur les digues et
-levées, ou sur les îles.
-
-Du côté du val, il est interdit de planter des arbres ou arbustes, de creuser des puits, caves, fossés, ou faire toutes
-autres excavations de terrain à moins de 19,50 mètres du pied des levées.
-
-Les façades des bâtiments, dans la zone des 19,50 mètres définis ci-dessus, devront être établies à 1,95 mètre au moins de
-l'arête inférieure du talus extérieur de la digue ou levée et l'intervalle compris entre ces façades et les talus voisins des
-levées ou digues devra être remblayé avec soin au niveau de leur couronnement. Les fondations des murs ne doivent pas excéder
-une profondeur de 0,50 mètre.
-
-Toute construction devra faire l'objet d'une autorisation préfectorale prise sur l'avis des ingénieurs de la navigation.
-
-Toute construction non autorisée donnera lieu à une amende de 12000 euros et à la démolition de la construction.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-18 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article 60
-
-Il est interdit de laisser paître des chevaux, boeufs, vaches, chèvres, moutons, porcs et autres bestiaux sur le couronnement
-et le talus des banquettes et des digues ou levées non plus qu'entre ces digues ou levées et la rivière à peine d'une amende
-de 9 à 10 euros pour chaque bête et de réparation des dommages.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-**Liens**:
-
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article 61
-
-La destruction des animaux qui se logent dans les digues pourra être poursuivie en toutes saisons sans aucune formalité
-préalable par les agents du service de la navigation sur l'ordre écrit des ingénieurs de la navigation.
-
-En outre, cette destruction pourra être autorisée par arrêté préfectoral pris sur l'avis des ingénieurs de la navigation dans
-le cadre des textes relatifs à la destruction des animaux nuisibles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-## Titre V : Bacs et passages d'eau<a id=16></a>
+## Titre V : Bacs et passages d'eau<a id=7></a>
 
 ###### Article 62
 
@@ -2424,11 +585,11 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Livre II : Des bateaux<a id=17></a>
+# Livre II : Des bateaux<a id=8></a>
 
-## Titre Ier : Régime juridique des bateaux de navigation intérieure<a id=18></a>
+## Titre Ier : Régime juridique des bateaux de navigation intérieure<a id=9></a>
 
-### Chapitre Ier : Immatriculation<a id=19></a>
+### Chapitre Ier : Immatriculation<a id=10></a>
 
 ###### Article 78
 
@@ -2849,7 +1010,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Chapitre II : Privilèges et hypothèques sur bateaux<a id=20></a>
+### Chapitre II : Privilèges et hypothèques sur bateaux<a id=11></a>
 
 ###### Article 89
 
@@ -3118,7 +1279,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure<a id=21></a>
+### Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure<a id=12></a>
 
 ###### Article 100
 
@@ -3540,7 +1701,7 @@ _Cité par_:
   - Code du domaine public fluvial et de la navigat... - art. 113 (VD)
 
 
-### Chapitre IV : De la purge des hypothèques<a id=22></a>
+### Chapitre IV : De la purge des hypothèques<a id=13></a>
 
 ###### Article 113
 
@@ -3716,7 +1877,7 @@ _Anciens textes_:
   - Loi n°1917-07-05 art. 32
 
 
-### Chapitre V : De la saisie et de la vente forcée<a id=23></a>
+### Chapitre V : De la saisie et de la vente forcée<a id=14></a>
 
 ###### Article 118
 
@@ -4296,7 +2457,7 @@ _Anciens textes_:
   - Loi n°1917-07-05 art. 42
 
 
-### Chapitre VI : Dispositions générales<a id=24></a>
+### Chapitre VI : Dispositions générales<a id=15></a>
 
 ###### Article 137
 
@@ -4338,7 +2499,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre II : Réglementation de l'usage d'appareils à pression de vapeur ou de gaz à bord, pénalités<a id=25></a>
+## Titre II : Réglementation de l'usage d'appareils à pression de vapeur ou de gaz à bord, pénalités<a id=16></a>
 
 ###### Article 138
 
@@ -4821,7 +2982,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre III : Reconstruction et renouvellement du parc fluvial<a id=26></a>
+## Titre III : Reconstruction et renouvellement du parc fluvial<a id=17></a>
 
 ###### Article 155
 
@@ -4963,9 +3124,9 @@ _Cite_:
   - Code du domaine public fluvial et de la navigation intérieure - art. 157
 
 
-# Livre III : Des mariniers<a id=27></a>
+# Livre III : Des mariniers<a id=18></a>
 
-## Titre Ier : Des patrons bateliers<a id=28></a>
+## Titre Ier : Des patrons bateliers<a id=19></a>
 
 ###### Article 159
 
@@ -5262,7 +3423,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre II : Des compagnons bateliers<a id=29></a>
+## Titre II : Des compagnons bateliers<a id=20></a>
 
 ###### Article 169
 
@@ -5409,7 +3570,7 @@ _Cite_:
   - Code du domaine public fluvial et de la navigation intérieure - art. 165
 
 
-## Titre III : Des chambres de batellerie<a id=30></a>
+## Titre III : Des chambres de batellerie<a id=21></a>
 
 ###### Article 173
 
@@ -5439,7 +3600,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre IV : Dispositions générales<a id=31></a>
+## Titre IV : Dispositions générales<a id=22></a>
 
 ###### Article 174
 
@@ -5481,7 +3642,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Livre IV : Voies navigables de France<a id=32></a>
+# Livre IV : Voies navigables de France<a id=23></a>
 
 ###### Article 176
 
@@ -5665,9 +3826,9 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Livre V : De l'exploitation et de la modernisation des voies navigables<a id=33></a>
+# Livre V : De l'exploitation et de la modernisation des voies navigables<a id=24></a>
 
-## Titre II : Voies ferrées des quais<a id=34></a>
+## Titre II : Voies ferrées des quais<a id=25></a>
 
 ###### Article 182
 
@@ -5685,7 +3846,7 @@ _Cite_:
   - Code des ports maritimes 42 à 44
 
 
-## Titre III : Régime du travail<a id=35></a>
+## Titre III : Régime du travail<a id=26></a>
 
 ###### Article 183
 
@@ -5727,9 +3888,9 @@ _Cite_:
   - Code des ports maritimes
 
 
-## Titre IV : Exploitation commerciale des voies navigables<a id=36></a>
+## Titre IV : Exploitation commerciale des voies navigables<a id=27></a>
 
-### Chapitre III : Contrats de transports<a id=37></a>
+### Chapitre III : Contrats de transports<a id=28></a>
 
 ###### Article 189
 
@@ -6117,7 +4278,7 @@ _Nouveaux textes_:
   - Code des transports - art. L4463-1 (M)
 
 
-### Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions<a id=38></a>
+### Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions<a id=29></a>
 
 ###### Article 209
 
@@ -6230,7 +4391,7 @@ _Nouveaux textes_:
   - Code des transports - art. L4463-5 (M)
 
 
-### Chapitre VI : Coordination des transports<a id=39></a>
+### Chapitre VI : Coordination des transports<a id=30></a>
 
 ###### Article 212
 
@@ -6264,9 +4425,9 @@ _Cite_:
   - Règlement CE 99-718 1999-03-29 art. 3, art. 4
 
 
-## Titre V : Police de la navigation<a id=40></a>
+## Titre V : Police de la navigation<a id=31></a>
 
-### Chapitre Ier : Dispositions générales<a id=41></a>
+### Chapitre Ier : Dispositions générales<a id=32></a>
 
 ###### Article 213
 
@@ -6354,7 +4515,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-### Chapitre II : Dispositions spéciales au transport des matières dangereuses<a id=42></a>
+### Chapitre II : Dispositions spéciales au transport des matières dangereuses<a id=33></a>
 
 ###### Article 216
 
@@ -6376,7 +4537,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-## Titre VI : Modernisation des voies navigables<a id=43></a>
+## Titre VI : Modernisation des voies navigables<a id=34></a>
 
 ###### Article 217
 
@@ -6678,56 +4839,11 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Livre VI : Dispositions particulières<a id=44></a>
+# Livre VI : Dispositions particulières<a id=35></a>
 
-## Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=45></a>
+## Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=36></a>
 
-### Chapitre Ier : Dispositions relatives aux voies navigables<a id=46></a>
-
-###### Article 227
-
-Sont applicables aux voies navigables et flottables des départements du Bas-Rhin, du Haut-Rhin et de la Moselle, aux lieu et
-place des articles 11 à 18, 20, 21 ci-dessus, pour autant que ces articles ne contiennent pas de dispositions pénales :
-
-1. La loi locale du 2 juillet 1891 sur l'utilisation des eaux et la protection contre les eaux avec les modifications
-résultant de la loi locale du 22 avril 1902, à l'exception des articles relatifs aux pénalités ;
-
-2. Les dispositions contenues dans la loi locale sur les professions du 26 juillet 1900 en tant qu'elles concernent les
-barrages pour établissements hydrauliques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-19 (V)
-
-_Cite_:
-
-  - Code du domaine public fluvial et de la navigation - art. 20 (Ab)
-  - Code du domaine public fluvial et de la navigation - art. 21 (Ab)
-  - Code du domaine public fluvial et de la navigation intérieure 11 à 18, 20, 21
-  - Loi n°1891-07-02
-  - Loi n°1900-07-26
-  - Loi n°1902-04-22
-
-_Anciens textes_:
-
-  - Loi n°1924-06-01 art. 7
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
-
-
-### Chapitre II : Dispositions relatives aux bateaux de navigation intérieure<a id=47></a>
+### Chapitre II : Dispositions relatives aux bateaux de navigation intérieure<a id=37></a>
 
 ###### Article 228
 
@@ -6901,7 +5017,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Chapitre III : Dispositions concernant la navigation sur le Rhin<a id=48></a>
+### Chapitre III : Dispositions concernant la navigation sur le Rhin<a id=38></a>
 
 ###### Article 233
 
@@ -6981,223 +5097,9 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre II : Dispositions particulières au canal du Midi<a id=49></a>
+## Titre II : Dispositions particulières au canal du Midi<a id=39></a>
 
-### Chapitre Ier : Du domaine du canal<a id=50></a>
-
-###### Article 236
-
-Le domaine public du canal du Midi comporte :
-
-1° Les éléments constitutifs du fief créé et érigé en faveur de Riquet, tels qu'ils résultent des plans et des procès-verbaux
-de bornage établis en 1772, savoir :
-
-- le canal proprement dit ;
-
-- le réservoir de Saint-Ferréol ;
-
-- les francs-bords d'une largeur équivalente à onze mètres soixante-dix centimètres de chaque côté ;
-
-- les chaussées, écluses et digues, la rigole de la Montagne et la rigole de la Plaine ;
-
-2° Les dépendances de la voie navigable situées en dehors du fief et restées sous la main et à la disposition du canal,
-savoir :
-
-- les parcelles de terrains acquises au moment de la construction du canal et formant excédents délimités sur les plans de
-bornage de 1772 par un liseré bistre ;
-
-- les rigoles et les contre-canaux établis sur ces terrains ;
-
-- les maisons destinées au logement du personnel employé à la navigation et les magasins pour l'entrepôt du matériel et des
-marchandises ;
-
-3° Le réservoir de Lampy.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2111-11 (V)
-
-
-### Chapitre II : De l'alimentation et de la propriété des eaux<a id=51></a>
-
-###### Article 237
-
-Toutes les eaux qui tombent naturellement ou par l'effet d'ouvrages d'art, soit dans le canal, soit dans ses rigoles
-nourricières, soit enfin dans ses réservoirs, sont en entier à la disposition du canal du Midi pour les prendre ou les
-rejeter et ce nonobstant toutes jouissances ou usages contraires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1807-08-12 art. 123
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-20 (V)
-
-
-###### Article 238
-
-Il ne pourra être fait aucune concession d'eau à des particuliers que par décret pris en Conseil d'Etat sur le rapport du
-ministre des travaux publics.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1807-08-12 art. 124
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 239
-
-Toute concession d'eau sera toujours révocable et l'usage qu'on en pourra faire sera dans tous les temps subordonné aux
-besoins du canal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1807-08-12 art. 125
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article 240
-
-Nul ne pourra, dans une concession rendue en la forme prescrite ci-dessus, pratiquer aucune prise d'eau sur le canal ou ses
-dépendances à peine de la démolition des travaux, du rétablissement des lieux aux frais des délinquants et de tous dépens,
-dommages-intérêts, règlés sur les obstacles et troubles qu'aura éprouvés la navigation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1807-08-12 art. 126
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-### Chapitre III : Des contre-canaux, rigoles et fossés<a id=52></a>
-
-###### Article 241
-
-L'entretien des épanchoirs du canal du Midi, à l'exception des vingt et un épanchoirs à fleur d'eau du bief du bassin rond
-est à la charge du service du canal, y compris les rigoles ou fossés d'évacuation des eaux de ces épanchoirs dans les
-ruisseaux ou rivières voisins.
-
-Les rigoles ou fossés d'évacuation seront entretenus aux dimensions nécessaires pour assurer l'écoulement des eaux des
-épanchoirs sans dommages aux héritages voisins.
-
-Les ruisseaux qui n'auraient pas les dimensions suffisantes pour recevoir le débit amené par ces rigoles ou fossés seront
-creusés et entretenus pour moitié par le service du canal et pour moitié par les communes sur le territoire desquelles ils se
-trouvent.
-
-Les vingt et un épanchoirs à fleur d'eau du bief du bassin Rond sont entretenus par les communes de Vias et d'Agde qui
-peuvent appeler à y contribuer les propriétaires intéressés.
-
-Aucun épanchoir ne pourra être fermé et aucun épanchoir nouveau ne pourra être établi ou le débit d'un épanchoir augmenté par
-le service du canal sans consultation des intéressés et des municipalités et sans établissement dans les deux derniers cas
-des rigoles ou fossés d'évacuation nécessaires à l'écoulement des eaux provenant de ces épanchoirs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-21 (V)
-
-
-###### Article 242
-
-Les aqueducs sont entretenus par le service du canal dans toute l'étendue de l'emprise du canal (cuvette et francs-bords).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-22 (V)
-
-
-###### Article 243
-
-Les rigoles alimentant le canal sont entretenues par le service du canal. Les autres rigoles et les contre-canaux ou rigoles
-parallèles au canal, amenant les eaux à un aqueduc sont entretenus pour moitié par le service du canal et pour moitié par les
-communes sur le territoire desquelles ils se trouvent, qui peuvent appeler à y participer les propriétaires intéressés.
-
-Les rigoles de sortie sont creusées et entretenues en totalité par les communes sur le territoire desquelles elles se
-trouvent, qui peuvent appeler à y participer les propriétaires intéressés ; toutefois, pour les rigoles qui recevaient les
-eaux d'un épanchoir, le service du canal contribuera pour moitié à leur établissement et à leur entretien. Les anciens, tels
-que ruisseaux dans lesquels on n'a pas rejeté ou détourné d'autres eaux, sont entretenus tant à l'entrée qu'à la sortie par
-les propriétaires riverains.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-23 (V)
-
+### Chapitre III : Des contre-canaux, rigoles et fossés<a id=40></a>
 
 ###### Article 244
 
@@ -7239,34 +5141,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2124-59 (V)
 
 
-### Chapitre IV : Des ouvrages d'art<a id=53></a>
-
-###### Article 245
-
-Les ponts construits, tant sur le canal que sur ses rigoles nourricières, seront réparés, entretenus et reconstruits au
-besoin aux frais du canal ; ceux sur les contre-canaux, ainsi que ceux sur les rigoles d'entrée ou de sortie des aqueducs ou
-des épanchoirs, resteront à la charge des communes lorsqu'ils ne seront pas dépendants d'une route entretenue par l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1807-08-12 art. 200
-
-_Codifié par_:
-
-  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-25 (V)
-
-
-# DISPOSITIONS FINALES.<a id=54></a>
+# DISPOSITIONS FINALES.<a id=41></a>
 
 ###### Article 246
 
