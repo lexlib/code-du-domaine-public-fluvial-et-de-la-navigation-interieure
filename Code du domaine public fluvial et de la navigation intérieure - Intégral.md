@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-10-01
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 5 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 5)](#2)
@@ -386,19 +386,23 @@ _Abrogé par_:
 ###### Article 69
 
 Ne sont point assujettis au paiement des droits compris aux tarifs des juges, les juges de tribunal d'instance,
-administrateurs, ingénieurs des ponts et chaussées, lorsqu'ils se transportent pour raison de leurs fonctions respectives,
-les gendarmes et officiers de gendarmerie, les militaires en marche, les officiers lors de la durée et dans l'étendue de leur
-commandement.
+administrateurs,    ingénieurs des ponts, des eaux et des forêts, lorsqu'ils se transportent pour raison de leurs fonctions
+respectives, les gendarmes et officiers de gendarmerie, les militaires en marche, les officiers lors de la durée et dans
+l'étendue de leur commandement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°56-1033 1956-10-13
+  - Décret n°2009-1106 du 10 septembre 2009 - art. 37
 
 _Anciens textes_:
 
   - Loi n°6 frimaire an VII art. 50
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 70
@@ -2950,18 +2954,22 @@ _Cite_:
 
 ###### Article 152
 
-Les contraventions prévues au présent titre sont constatées par les ingénieurs des mines, les ingénieurs des ponts et
-chaussées, les gardes-mines, les conducteurs et autres employés des ponts et chaussées et des mines commissionnés à cet
-effet, les maires et adjoints, les commissaires de police et, en outre, pour les bateaux à vapeur, les officiers de port, les
-inspecteurs et gardes de la navigation, les membres des commissions de surveillance instituées en exécution des règlements et
-les hommes de l'art qui, dans les ports étrangers, auront, en vertu de l'article 49 de l'ordonnance du 17 janvier 1846, été
-chargés par les consuls ou agents consulaires français de procéder aux visites des bateaux à vapeur.
+Les contraventions prévues au présent titre sont constatées par les ingénieurs des mines, les    ingénieurs des ponts, des
+eaux et des forêts, les gardes-mines, les conducteurs et autres employés des ponts et chaussées et des mines commissionnés à
+cet effet, les maires et adjoints, les commissaires de police et, en outre, pour les bateaux à vapeur, les officiers de port,
+les inspecteurs et gardes de la navigation, les membres des commissions de surveillance instituées en exécution des
+règlements et les hommes de l'art qui, dans les ports étrangers, auront, en vertu de l'article 49 de l'ordonnance du 17
+janvier 1846, été chargés par les consuls ou agents consulaires français de procéder aux visites des bateaux à vapeur.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°56-1033 1956-10-13
+  - Décret n°2009-1106 du 10 septembre 2009 - art. 37
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cité par_:
 
