@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2009-10-01
+Version Consolidée au 2010-07-14
 ## Contenu: 
   - [Livre Ier : Du domaine public fluvial (art. 5 à 77)](#1)
     - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 5)](#2)
@@ -25,7 +25,7 @@ Version Consolidée au 2009-10-01
     - [Titre IV : Dispositions générales (art. 174 à 175)](#22)
   - [Livre IV : Voies navigables de France (art. 176 à 180)](#23)
   - [Livre V : De l'exploitation et de la modernisation des voies navigables (art. 182 à 226)](#24)
-    - [Titre II : Voies ferrées des quais (art. 182)](#25)
+    - [Titre II : Voies ferrées portuaires (art. 182)](#25)
     - [Titre III : Régime du travail (art. 183 à 184)](#26)
     - [Titre IV : Exploitation commerciale des voies navigables (art. 189 à 212)](#27)
       - [Chapitre III : Contrats de transports (art. 189 à 198)](#28)
@@ -3818,22 +3818,31 @@ _Abrogé par_:
 
 # Livre V : De l'exploitation et de la modernisation des voies navigables<a id=24></a>
 
-## Titre II : Voies ferrées des quais<a id=25></a>
+## Titre II : Voies ferrées portuaires<a id=25></a>
 
 ###### Article 182
 
-Le régime des voies ferrées des quais des ports de navigation intérieure est celui fixé par les articles 42 à 44 du code des
-ports maritimes.
+Le régime des voies ferrées portuaires dans les ports autonomes fluviaux est défini par le livre IV du code des ports
+maritimes.
+
+Sans préjudice de la compétence générale des officiers et agents de police judiciaire, les agents de la navigation intérieure
+et les agents des ports autonomes fluviaux, lorsqu'ils ont la qualité de fonctionnaire et sont commissionnés et assermentés à
+cet effet, ont compétence pour constater par procès-verbal les atteintes aux voies ferrées portuaires et les infractions aux
+règlements de police qui leur sont applicables. Ledit procès-verbal est remis au contrevenant.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°56-1033 1956-10-13
+  - Loi n°2010-788 du 12 juillet 2010 - art. 61
 
-_Cite_:
+_Abrogé par_:
 
-  - Code des ports maritimes 42 à 44
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L4321-3 (V)
 
 
 ## Titre III : Régime du travail<a id=26></a>
