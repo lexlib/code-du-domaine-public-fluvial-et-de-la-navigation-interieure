@@ -1,150 +1,28 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2011-11-24
+Version Consolidée au 2011-11-25
 ## Contenu: 
-  - [Livre Ier : Du domaine public fluvial (art. 5 à 38)](#1)
-    - [Titre Ier : Consistance, classement, déclassement du domaine public fluvial. (art. 5)](#2)
-    - [Titre III : Conservation et gestion du domaine public fluvial (art. 38)](#3)
-      - [Chapitre II : Gestion du domaine public fluvial (art. 38)](#4)
-        - [Section 3 : Dispositions diverses. (art. 38)](#5)
-  - [Livre II : Des bateaux (art. 80 à 131)](#6)
-    - [Titre Ier : Régime juridique des bateaux de navigation intérieure (art. 80 à 131)](#7)
-      - [Chapitre Ier : Immatriculation (art. 80 à 86)](#8)
-      - [Chapitre II : Privilèges et hypothèques sur bateaux (art. 97)](#9)
-      - [Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure (art. 101 à 111)](#10)
-      - [Chapitre IV : De la purge des hypothèques (art. 113 à 117)](#11)
-      - [Chapitre V : De la saisie et de la vente forcée (art. 118 à 131)](#12)
-  - [Livre III : Des mariniers (art. 160 à 172)](#13)
-    - [Titre Ier : Des patrons bateliers (art. 160 à 168)](#14)
-    - [Titre II : Des compagnons bateliers (art. 169 à 172)](#15)
-  - [Livre IV : Voies navigables de France (art. 176 à 180)](#16)
-  - [Livre V : De l'exploitation et de la modernisation des voies navigables (art. 190 à 196)](#17)
-    - [Titre IV : Exploitation commerciale des voies navigables (art. 190 à 196)](#18)
-      - [Chapitre III : Contrats de transports (art. 190 à 196)](#19)
-  - [Livre VI : Dispositions particulières (art. 229 à 232)](#20)
-    - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. 229 à 232)](#21)
-      - [Chapitre II : Dispositions relatives aux bateaux de navigation intérieure (art. 229 à 232)](#22)
-# Livre Ier : Du domaine public fluvial<a id=1></a>
+  - [Livre II : Des bateaux (art. 80 à 131)](#1)
+    - [Titre Ier : Régime juridique des bateaux de navigation intérieure (art. 80 à 131)](#2)
+      - [Chapitre Ier : Immatriculation (art. 80 à 86)](#3)
+      - [Chapitre II : Privilèges et hypothèques sur bateaux (art. 97)](#4)
+      - [Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure (art. 101 à 111)](#5)
+      - [Chapitre IV : De la purge des hypothèques (art. 113 à 117)](#6)
+      - [Chapitre V : De la saisie et de la vente forcée (art. 118 à 131)](#7)
+  - [Livre III : Des mariniers (art. 160 à 172)](#8)
+    - [Titre Ier : Des patrons bateliers (art. 160 à 168)](#9)
+    - [Titre II : Des compagnons bateliers (art. 169 à 172)](#10)
+  - [Livre IV : Voies navigables de France (art. 176 à 180)](#11)
+  - [Livre V : De l'exploitation et de la modernisation des voies navigables (art. 190 à 196)](#12)
+    - [Titre IV : Exploitation commerciale des voies navigables (art. 190 à 196)](#13)
+      - [Chapitre III : Contrats de transports (art. 190 à 196)](#14)
+  - [Livre VI : Dispositions particulières (art. 229 à 232)](#15)
+    - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. 229 à 232)](#16)
+      - [Chapitre II : Dispositions relatives aux bateaux de navigation intérieure (art. 229 à 232)](#17)
+# Livre II : Des bateaux<a id=1></a>
 
-## Titre Ier : Consistance, classement, déclassement du domaine public fluvial.<a id=2></a>
+## Titre Ier : Régime juridique des bateaux de navigation intérieure<a id=2></a>
 
-###### Article 5
-
-Les décrets de concession sont pris après avis des ministres chargés respectivement des finances, de l'agriculture, de
-l'industrie et du commerce et du ministre chargé de la tutelle de l'organisme concessionnaire. Ces avis sont sollicités par
-le ministre des travaux publics, après accomplissement des formalités ci-après ;
-
-a) Consultation des Voies navigables de France et des services civils, départements et chambres de commerce intéressés ;
-
-b) Si la voie considérée n'a pas cessé d'être fréquentée par la navigation ou utilisée pour le flottage depuis plus de deux
-ans, consultation des organisations professionnelles de la batellerie.
-
-Les avis non fournis dans le délai d'un mois au titre des consultations prévues ci-dessus, sont réputés favorables.
-
-Dans les cours d'eau et les lacs concédés en exécution du présent article, le droit de pêche reste exercé au profit de l'Etat
-en exécution de l'article 403 du code rural.
-
-**Nota:**
-
-Conformément à l'ordonnance n° 2010-1307 du 28 octobre 2010, article 16, l'article 5 est abrogé à compter de la publication
-des dispositions réglementaires du code général de la propriété des personnes publiques en ce qu'il prévoit les modalités de
-la consultation par l'autorité administrative des établissements, des collectivités territoriales et des organisations
-professionnelles mentionnés aux a et b de cet article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 du 13 octobre 1956
-
-_Modifié par_:
-
-  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
-
-_Cité par_:
-
-  - Loi n°92-3 du 3 janvier 1992 - art. 31 (Ab)
-  - Décret n°2005-992 du 16 août 2005 - art. 1 (Ab)
-  - Décret n°2005-992 du 16 août 2005 - art. 12 (Ab)
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
-  - Code de l'environnement - art. L211-7 (M)
-  - Code de l'environnement - art. R435-32 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-7 (V)
-  - Code général de la propriété des personnes publ... - art. R2124-57 (V)
-
-_Cite_:
-
-  - Code rural 403
-
-**Liens**:
-
-  - SPEC_APPLI: Date de fin de vigueur indéterminée
-
-
-## Titre III : Conservation et gestion du domaine public fluvial<a id=3></a>
-
-### Chapitre II : Gestion du domaine public fluvial<a id=4></a>
-
-#### Section 3 : Dispositions diverses.<a id=5></a>
-
-###### Article 38
-
-Dans les communes autres que Paris, le maire peut, moyennant le payement de droits fixés par un tarif dûment établi, donner
-des permis de stationnement ou de dépôt temporaire sur les rivières, ports et quais fluviaux lorsque les administrations
-auront reconnu qu'il n'en résultera pas de gêne pour la voie navigable, la navigation, la circulation et la liberté du
-commerce.
-
-A Paris, les permis de stationnement ou de dépôt temporaire sur la Seine, ses ports et ses quais, sont donnés par l'ingénieur
-en chef comme en matière d'occupation temporaire et les droits correspondants perçus de même au profit de l'Etat par
-l'administration des domaines.
-
-**Nota:**
-
-Conformément à l'article 16 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 38 sera abrogé à compter de la
-publication des dispositions réglementaires du code général de la propriété des personnes publiques en ce qui concerne les
-mots "par l'administration des domaines". 
-
-Le décret n° 2011-1612 du 22 novembre 2011 en son article 3 II a abrogé à l'article 38 les mots "par l'administration des
-domaines".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-1033 du 13 octobre 1956
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-_Cité par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2124-13 (M)
-
-_Anciens textes_:
-
-  - Décret n°17 prairial an XIII art. 1
-  - Loi n°11 frimaire an VII art. 7
-  - Loi n°1884-04-05 art. 98
-
-
-# Livre II : Des bateaux<a id=6></a>
-
-## Titre Ier : Régime juridique des bateaux de navigation intérieure<a id=7></a>
-
-### Chapitre Ier : Immatriculation<a id=8></a>
+### Chapitre Ier : Immatriculation<a id=3></a>
 
 ###### Article 80
 
@@ -386,7 +264,7 @@ _Nouveaux textes_:
   - Code des transports - art. R4111-6 (V)
 
 
-### Chapitre II : Privilèges et hypothèques sur bateaux<a id=9></a>
+### Chapitre II : Privilèges et hypothèques sur bateaux<a id=4></a>
 
 ###### Article 97
 
@@ -423,7 +301,7 @@ _Anciens textes_:
   - Loi n°1917-07-05 art. 13
 
 
-### Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure<a id=10></a>
+### Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure<a id=5></a>
 
 ###### Article 101
 
@@ -723,7 +601,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Chapitre IV : De la purge des hypothèques<a id=11></a>
+### Chapitre IV : De la purge des hypothèques<a id=6></a>
 
 ###### Article 113
 
@@ -899,7 +777,7 @@ _Anciens textes_:
   - Loi n°1917-07-05 art. 32
 
 
-### Chapitre V : De la saisie et de la vente forcée<a id=12></a>
+### Chapitre V : De la saisie et de la vente forcée<a id=7></a>
 
 ###### Article 118
 
@@ -1462,9 +1340,9 @@ _Anciens textes_:
   - Loi n°1917-07-15 art. 44
 
 
-# Livre III : Des mariniers<a id=13></a>
+# Livre III : Des mariniers<a id=8></a>
 
-## Titre Ier : Des patrons bateliers<a id=14></a>
+## Titre Ier : Des patrons bateliers<a id=9></a>
 
 ###### Article 160
 
@@ -1601,7 +1479,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Titre II : Des compagnons bateliers<a id=15></a>
+## Titre II : Des compagnons bateliers<a id=10></a>
 
 ###### Article 169
 
@@ -1744,7 +1622,7 @@ _Cite_:
   - Code du domaine public fluvial et de la navigation intérieure - art. 165
 
 
-# Livre IV : Voies navigables de France<a id=16></a>
+# Livre IV : Voies navigables de France<a id=11></a>
 
 ###### Article 176
 
@@ -1928,11 +1806,11 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Livre V : De l'exploitation et de la modernisation des voies navigables<a id=17></a>
+# Livre V : De l'exploitation et de la modernisation des voies navigables<a id=12></a>
 
-## Titre IV : Exploitation commerciale des voies navigables<a id=18></a>
+## Titre IV : Exploitation commerciale des voies navigables<a id=13></a>
 
-### Chapitre III : Contrats de transports<a id=19></a>
+### Chapitre III : Contrats de transports<a id=14></a>
 
 ###### Article 190
 
@@ -1991,11 +1869,11 @@ _Nouveaux textes_:
   - Code des transports - art. D4451-1 (V)
 
 
-# Livre VI : Dispositions particulières<a id=20></a>
+# Livre VI : Dispositions particulières<a id=15></a>
 
-## Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=21></a>
+## Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=16></a>
 
-### Chapitre II : Dispositions relatives aux bateaux de navigation intérieure<a id=22></a>
+### Chapitre II : Dispositions relatives aux bateaux de navigation intérieure<a id=17></a>
 
 ###### Article 229
 
